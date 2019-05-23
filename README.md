@@ -20,7 +20,7 @@ email: chivalry@mac.com
     - Contributor to [FMEasyAudit](fmeasyaudit)
     - Maintainer of numerous projects, including [FMAuthenticator](fmauthenticator) and [FMEasySync](fmeasysync)
 - Intermediate skills with [Python 3](python)
-    - Integration with [Flask](flask) and [PostgreSQL](postgresql) with [Heroku](heroku) and [Docker](docker) deployment
+    - Web development using [Flask](flask) and [PostgreSQL](postgresql) with [Heroku](heroku) and [Docker](docker) deployment
     - Creator of [structured-flask](structured-flask) and [cbstar](cbstar) projects
     - Author of [meta-python](meta-python) book-length tutorial
     - Contributor to [Flask](flask), [Werkzeug](werkzeug), [Flask-Bcrypt](flask-bcrypt), [flask-starter](flask-starter), and [Flask-Dotenv](flask-dotenv) projects
@@ -31,7 +31,7 @@ email: chivalry@mac.com
 - [Vim](vim)
     - Creator of [filemaker.vim](filemaker.vim) plugin
     - Contributor to Vim and [UltiSnips](ultisnips) projects
-[TextMate](textmate)
+- [TextMate](textmate)
     - Creator of [filemaker-textmate-bundle](filemaker-textmate-bundle) plugin
 - [Xojo](xojo)
 - [C](c), [C++](c++), [Objective-C](objective-c), [Objective-C++](objective-c++)
@@ -46,6 +46,7 @@ email: chivalry@mac.com
 - Developed custom software applications using FileMaker, PHP, Python, AppleScript, and Xojo for macOS, Windows, web, and iOS platforms
 - Designed, marketed and released original FileMaker developer and end-user solutions and plugins
 - Coordinated development projects with peer and junior developers
+- Published macOS app YourSleeper in Mac App Store
 
 ### Independent Writer — 2000-Present
 
@@ -109,6 +110,11 @@ email: chivalry@mac.com
 - Member, [FileMaker Developers in Southern California](fmdisc) for 3 years
 - Moderator on [FMForums.com](fmdisc) for 10 years
 - Contributing Editor at About This Particilar Macintosh for 5 years
+- Den Leader, Awards Chain, Merit Badge Councilor with [Boy Scouts of America](bsa) for 10 years
+- Tutor for 2 years with [Heart of Los Angeles](hola)
+- Programming mentor with [FIRST](first) for 2 years
+
+
 
 [filemaker]: https://www.filemaker.com
 [scriptmaster]: https://360works.com/scriptmaster/
@@ -169,3 +175,6 @@ email: chivalry@mac.com
 [ucla]: http://www.ucla.edu
 [fmdisc]: http://fmdisc.org/pages/about.html
 [fmforums]: https://fmforums.com
+[bsa]: http://scouting.org
+[hola]: https://www.heartofla.org
+[first]: https://www.firstinspires.org
