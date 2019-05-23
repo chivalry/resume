@@ -104,10 +104,10 @@ email: chivalry@mac.com
 
 ## Education and Professional Affiliations
 
-- Studied Mathematics at University of California, Los Angeles
+- Studied Mathematics, Specialization in Computing at [University of California, Los Angeles](ucla)
 - Interviewed by filemakeraddicts.com series on prominent FileMaker developers
-- Member, FileMaker Developers in Southern California for 3 years
-- Moderator on FMForums.com for 10 years
+- Member, [FileMaker Developers in Southern California](fmdisc) for 3 years
+- Moderator on [FMForums.com](fmdisc) for 10 years
 - Contributing Editor at About This Particilar Macintosh for 5 years
 
 [filemaker]: https://www.filemaker.com
@@ -166,3 +166,6 @@ email: chivalry@mac.com
 [xcode]: https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8
 [vb]: https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation
 [mysql]: https://www.mysql.com
+[ucla]: http://www.ucla.edu
+[fmdisc]: http://fmdisc.org/pages/about.html
+[fmforums]: https://fmforums.com
