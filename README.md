@@ -103,7 +103,7 @@ email: chivalry@mac.com
 - Upgraded network from LocalTalk to Ethernet
 - Connected network to the Internet with a fractional T1
 
-## Education and Professional Affiliations
+## Education, Professional Affiliations, and Volunteer Work
 
 - Studied Mathematics, Specialization in Computing at [University of California, Los Angeles](ucla)
 - Interviewed by filemakeraddicts.com series on prominent FileMaker developers
