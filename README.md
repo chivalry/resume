@@ -34,13 +34,14 @@ email: chivalry@mac.com
 [TextMate](textmate)
     - Creator of [filemaker-textmate-bundle](filemaker-textmate-bundle) plugin
 - [Xojo](xojo)
-- C, C++, Objective-C, Objective-C++
-- XML and XSLT
-- Advanced skills with macOS, macOS Server, and iOS
+- [C](c), [C++](c++), [Objective-C](objective-c), [Objective-C++](objective-c++)
+- [XML](xml) and [XSLT](xslt)
+- Advanced skills with [macOS](macos), [macOS Server](macosserver), and [iOS](ios)
+- Experience with [Ubuntu](ubuntu) [Linux](linux) and [Windows](windows)
 
 ## Professional Experience
 
-### Developer/Proprietor, Chivalry Software — 2004-Present
+### Developer/Proprietor, [Chivalry Software](chivalry) — 2004-Present
 
 - Developed custom software applications using FileMaker, PHP, Python, AppleScript, and Xojo for macOS, Windows, web, and iOS platforms
 - Designed, marketed and released original FileMaker developer and end-user solutions and plugins
@@ -49,11 +50,11 @@ email: chivalry@mac.com
 ### Independent Writer — 2000-Present
 
 - Currently writing Meta Python book
-- Write chapters on FileMaker calculations and plugins for The Book of FileMaker
-- Write articles for ISO FileMaker Magazine illustrating advanced developer techniques and reviews of FileMaker developer tools
-- Wrote series of tutorials for About This Particular Macintosh on learning to program with AppleScript and FileMaker and reviews of software products
-- WRote article for Macworld Magazine on using AppleScript to integrate FileMaker with iCal
-- Performed technical editing and source code review for Xcode 5: Start to Finish
+- Write chapters on FileMaker calculations and plugins for [The Book of FileMaker](book-of-filemaker)
+- Write articles for [ISO FileMaker Magazine](filemaker-magazine) illustrating advanced developer techniques and reviews of FileMaker developer tools
+- Wrote series of tutorials for [About This Particular Macintosh](atpm) on learning to program with AppleScript and FileMaker and reviews of software products
+- Wrote article for [Macworld Magazine](macworld) on using AppleScript to integrate FileMaker with iCal
+- Performed technical editing and source code review for [Xcode 5: Start to Finish](xcode)
 
 ### Manager of Software Development, Bert Howe and Associates
 
@@ -129,3 +130,21 @@ email: chivalry@mac.com
 [textmate]: https://macromates.com
 [filemaker-textmate-bundle]: https://github.com/chivalry/filemaker-textmate-bundle
 [xojo]: https://www.xojo.com
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c++]: https://isocpp.org
+[objective-c]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[objective-c++]: https://en.wikipedia.org/wiki/Objective-C#Objective-C++
+[xml]: https://www.w3.org/TR/REC-xml/
+[xslt]: https://www.w3.org/standards/xml/transformation
+[macos]: https://www.apple.com/macos/mojave/
+[macosserver]: https://www.apple.com/macos/server/
+[ios]: https://www.apple.com/ios/ios-12/
+[ubuntu]: https://www.ubuntu.com
+[linux]: https://en.wikipedia.org/wiki/Linux
+[windows]: https://windows.microsoft.com
+[chivalry]: http://chivalrysoftware.com
+[book-of-filemaker]: https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816
+[filemaker-magazine]: https://www.filemakermagazine.com
+[atpm]: http://atpm.com
+[macworld]: https://www.macworld.com
+[xcode]: https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8
