@@ -1,9 +1,9 @@
 # Charles Ross' Résumé
 
-1619 Whiterock Ln.
+1619 Whiterock Ln. 
 Hemet, CA 92545
 
-phone: 951-370-5596
+phone: 951-370-5596 
 email: chivalry@mac.com
 
 ## Technical Skills
