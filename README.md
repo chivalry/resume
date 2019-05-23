@@ -41,7 +41,7 @@ email: chivalry@mac.com
 
 ## Professional Experience
 
-### Developer/Proprietor, [Chivalry Software](chivalry) — 2004-Present
+### Developer/Proprietor, Chivalry Software — 2004-Present
 
 - Developed custom software applications using FileMaker, PHP, Python, AppleScript, and Xojo for macOS, Windows, web, and iOS platforms
 - Designed, marketed and released original FileMaker developer and end-user solutions and plugins
@@ -58,7 +58,7 @@ email: chivalry@mac.com
 
 ### Manager of Software Development, Bert Howe and Associates
 
-- Developed custom in-house applications based on FileMaker, Visual Basic and MySQL
+- Developed custom in-house applications based on FileMaker, [Visual Basic](vb) and [MySQL](mysql)
 - Provided technical support for existing applications and made technology recommendations based on company needs
 
 ### Manager of Information Systems, Jobelephant.com
@@ -78,13 +78,29 @@ email: chivalry@mac.com
 
 ### Senior Developer, Metro Technologies
 
+- Developed custom software using FileMaker
+
 ### On-Site Service Technician, MacEnthusiasts
+
+- Performed on-site installations and repairs of Apple hardware and software
 
 ### Proprietor, Chivalry Technical Consulting
 
+- Performed on-site installations and repairs of Apple hardware and software
+- Installed network hardware and servers
+- Connected clients to the Internet using ISDN and DSL technologies
+
 ### Manager of Information Services/Data Analyst, Direct Partners
 
+- Wrote custom data analysis software to analyze direct mail marketing campaigns
+- Offered technical support and server administration for network of 20 Mac-based computers
+
 ### Manager of Information Services, Grey Advertising
+
+- Managed network of 200 Mac-based and DOS-based computers
+- Offered technical support and server administration
+- Upgraded network from LocalTalk to Ethernet
+- Connected network to the Internet with a fractional T1
 
 ## Education and Professional Affiliations
 
@@ -148,3 +164,5 @@ email: chivalry@mac.com
 [atpm]: http://atpm.com
 [macworld]: https://www.macworld.com
 [xcode]: https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8
+[vb]: https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation
+[mysql]: https://www.mysql.com
