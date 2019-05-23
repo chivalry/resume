@@ -8,16 +8,16 @@ email: chivalry@mac.com
 
 ## Technical Skills
 
-- Advanced skills with FileMaker Pro
+- Advanced skills with [FileMaker Pro](filemaker)
     - Certified FileMaker Developer
     - FileMaker Pro versions 2–18
     - FileMaker Server versions 3–18
     - macOS, Windows, iOS, Custom Web Publishing, and WebDirect
-    - ScriptMaster, BaseElements, xmCharts, SmartPill PHP, and other plugins
+    - [ScriptMaster](scriptmaster), [BaseElements](baseelements), [xmCHART](xmchart), [SmartPill PHP](smartpill), and other plugins
     - Plugin development using C++ and Objective-C++
-    - Automation and integration with AppleScript
+    - Automation and integration with [AppleScript](applescript)
     - Active participant in open source projects:
-        - Creator of numerous projects, including fm-dev-start, filemaker-custom-functions, and filemaker-dictionary
+        - Creator of numerous projects, including [fm-dev-start](fm-dev-start), filemaker-custom-functions, and filemaker-dictionary
         - Contributor to FMEasyAudit
         - Maintainer of numerous projects, including FMAuthenticator and FMEasySync
 - Intermediate skills with Python 3
@@ -93,3 +93,11 @@ TextMate
 - Member, FileMaker Developers in Southern California for 3 years
 - Moderator on FMForums.com for 10 years
 - Contributing Editor at About This Particilar Macintosh for 5 years
+
+[filemaker]: https://www.filemaker.com
+[scriptmaster]: https://360works.com/scriptmaster/
+[baseelements]: https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin
+[xmchart]: https://www.x2max.com/home/
+[smartpill]: https://www.scodigo.com
+[applescript]: https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html
+[fm-dev-start]: https://github.com/chivalry/fm-dev-start
