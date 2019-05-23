@@ -16,25 +16,24 @@ email: chivalry@mac.com
     - [ScriptMaster](scriptmaster), [BaseElements](baseelements), [xmCHART](xmchart), [SmartPill PHP](smartpill), and other plugins
     - Plugin development using C++ and Objective-C++
     - Automation and integration with [AppleScript](applescript)
-    - Active participant in open source projects:
-        - Creator of numerous projects, including [fm-dev-start](fm-dev-start), filemaker-custom-functions, and filemaker-dictionary
-        - Contributor to FMEasyAudit
-        - Maintainer of numerous projects, including FMAuthenticator and FMEasySync
-- Intermediate skills with Python 3
-    - Integration with Flask and PostgreSQL with Heroku and Docker deployment
-    - Creator of structured-flask and cbstar projects
-    - Author of meta-python book-length tutorial
-    - Contributor to Flask, Werkzeug, Flask-Bcrypt, flask-starter, and Flask-Dotenv projects
-- Intermediate skills with PHP
-    - LAMP-based web publishing
-    - Contributions to SimpleImage
-- Web Development with JavaScript, HTML, and CSS
-- Vim
-    - Creator of filemaker.vim plugin
-    - Contributor to Vim and UltiSnips projects
-TextMate
-    - Creator of filemaker-textmate-bundle plugin
-- Xojo
+    - Creator of numerous projects, including [fm-dev-start](fm-dev-start), [filemaker-custom-functions](filemaker-custom-functions), and [filemaker-dictionary](filemaker-dictionary)
+    - Contributor to [FMEasyAudit](fmeasyaudit)
+    - Maintainer of numerous projects, including [FMAuthenticator](fmauthenticator) and [FMEasySync](fmeasysync)
+- Intermediate skills with [Python 3](python)
+    - Integration with [Flask](flask) and [PostgreSQL](postgresql) with [Heroku](heroku) and [Docker](docker) deployment
+    - Creator of [structured-flask](structured-flask) and [cbstar](cbstar) projects
+    - Author of [meta-python](meta-python) book-length tutorial
+    - Contributor to [Flask](flask), [Werkzeug](werkzeug), [Flask-Bcrypt](flask-bcrypt), [flask-starter](flask-starter), and [Flask-Dotenv](flask-dotenv) projects
+- Intermediate skills with [PHP](php)
+    - [LAMP](lamp)-based web publishing
+    - Contributions to [SimpleImage](simpleimage)
+- Web Development with [JavaScript](javascript), [HTML](html), and [CSS][css]
+- [Vim](vim)
+    - Creator of [filemaker.vim](filemaker.vim) plugin
+    - Contributor to Vim and [UltiSnips](ultisnips) projects
+[TextMate](textmate)
+    - Creator of [filemaker-textmate-bundle](filemaker-textmate-bundle) plugin
+- [Xojo](xojo)
 - C, C++, Objective-C, Objective-C++
 - XML and XSLT
 - Advanced skills with macOS, macOS Server, and iOS
@@ -101,3 +100,32 @@ TextMate
 [smartpill]: https://www.scodigo.com
 [applescript]: https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html
 [fm-dev-start]: https://github.com/chivalry/fm-dev-start
+[filemaker-custom-functions]: https://github.com/chivalry/filemaker-custom-functions
+[filemaker-dictionary]: https://github.com/chivalry/filemaker-dictionary
+[fmeasyaudit]: https://github.com/chivalry/FMEasyAudit
+[fmauthenticator]: https://github.com/chivalry/FMAuthenticator
+[fmeasysync]: https://github.com/chivalry/FMEasySync
+[python]: https://www.python.org
+[flask]: http://flask.pocoo.org
+[postgresql]: https://www.postgresql.org
+[heroku]: https://www.heroku.com
+[docker]: https://www.docker.com
+[structured-flask]: https://github.com/chivalry/structured-flask
+[cbstar]: https://github.com/chivalry/cbstar
+[meta-python]: https://github.com/chivalry/meta-python
+[werkzeug]: https://werkzeug.palletsprojects.com/en/0.15.x/
+[flask-bcrypt]: https://flask-bcrypt.readthedocs.io/en/latest/
+[flask-starter]: https://github.com/carc1n0gen/flask-starter
+[flask-dotenv]: https://github.com/grauwoelfchen/flask-dotenv/
+[php]: https://php.net
+[lamp]: https://en.wikipedia.org/wiki/LAMP_(software_bundle)
+[simpleimage]: https://github.com/claviska/SimpleImage
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[html]: https://www.w3.org/html/
+[css]: https://www.w3.org/Style/CSS/
+[vim]: https://www.vim.org
+[filemaker.vim]: https://github.com/chivalry/filemaker.vim
+[ultisnips]: https://github.com/SirVer/ultisnips
+[textmate]: https://macromates.com
+[filemaker-textmate-bundle]: https://github.com/chivalry/filemaker-textmate-bundle
+[xojo]: https://www.xojo.com
