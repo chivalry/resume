@@ -24,21 +24,21 @@ email: chivalry@mac.com
     - Creator of [structured-flask] and [cbstar] projects
     - Author of [meta-python] book-length tutorial
     - Contributor to [Flask], [Werkzeug], [Flask-Bcrypt], [flask-starter], and [Flask-Dotenv] projects
-- Intermediate skills with [PHP](php)
-    - [LAMP](lamp)-based web publishing
-    - Contributions to [SimpleImage](simpleimage)
-- Web Development with [JavaScript](javascript), [HTML](html), and [CSS][css]
-- [Vim](vim)
-    - Creator of [filemaker.vim](filemaker.vim) plugin
-    - Contributor to Vim and [UltiSnips](ultisnips) projects
-- [TextMate](textmate)
-    - Creator of [filemaker-textmate-bundle](filemaker-textmate-bundle) plugin
-- [Xojo](xojo)
-- [C](c), [C++](c++), [Objective-C](objective-c), [Objective-C++](objective-c++)
-- [XML](xml) and [XSLT](xslt)
-- Advanced skills with [macOS](macos), [macOS Server](macosserver), and [iOS](ios)
-- Experience with [Ubuntu](ubuntu) [Linux](linux) and [Windows](windows)
-- Experience with [Heroku](heroku), [Amazon Web Servers](aws), and [Docker](docker)
+- Intermediate skills with [PHP]
+    - [LAMP]-based web publishing
+    - Contributions to [SimpleImage]
+- Web Development with [JavaScript], [HTML], and [CSS]
+- [Vim]
+    - Creator of [filemaker.vim] plugin
+    - Contributor to Vim and [UltiSnips] projects
+- [TextMate]
+    - Creator of [filemaker-textmate-bundle] plugin
+- [Xojo]
+- [C], [C++], [Objective-C], [Objective-C++]
+- [XML] and [XSLT]
+- Advanced skills with [macOS], [macOS Server], and [iOS]
+- Experience with [Ubuntu] [Linux] and [Windows]
+- Experience with [Heroku], [Amazon Web Servers], and [Docker]
 
 ## Professional Experience
 
@@ -52,15 +52,15 @@ email: chivalry@mac.com
 ### Independent Writer — 2000-Present
 
 - Currently writing Meta Python book
-- Write chapters on FileMaker calculations and plugins for [The Book of FileMaker](book-of-filemaker)
-- Write articles for [ISO FileMaker Magazine](filemaker-magazine) illustrating advanced developer techniques and reviews of FileMaker developer tools
-- Wrote series of tutorials for [About This Particular Macintosh](atpm) on learning to program with AppleScript and FileMaker and reviews of software products
-- Wrote article for [Macworld Magazine](macworld) on using AppleScript to integrate FileMaker with iCal
-- Performed technical editing and source code review for [Xcode 5: Start to Finish](xcode)
+- Write chapters on FileMaker calculations and plugins for [The Book of FileMaker]
+- Write articles for [ISO FileMaker Magazine] illustrating advanced developer techniques and reviews of FileMaker developer tools
+- Wrote series of tutorials for [About This Particular Macintosh] on learning to program with AppleScript and FileMaker and reviews of software products
+- Wrote article for [Macworld Magazine] on using AppleScript to integrate FileMaker with iCal
+- Performed technical editing and source code review for [Xcode 5: Start to Finish]
 
 ### Manager of Software Development, Bert Howe and Associates
 
-- Developed custom in-house applications based on FileMaker, [Visual Basic](vb) and [MySQL](mysql)
+- Developed custom in-house applications based on FileMaker, [Visual Basic] and [MySQL]
 - Provided technical support for existing applications and made technology recommendations based on company needs
 
 ### Manager of Information Systems, Jobelephant.com
@@ -141,45 +141,42 @@ email: chivalry@mac.com
 [Flask-Bcrypt]: https://flask-bcrypt.readthedocs.io/en/latest/
 [flask-starter]: https://github.com/carc1n0gen/flask-starter
 [Flask-Dotenv]: https://github.com/grauwoelfchen/flask-dotenv/
-[php]: https://php.net
-[lamp]: https://en.wikipedia.org/wiki/LAMP_(software_bundle)
-[simpleimage]: https://github.com/claviska/SimpleImage
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[html]: https://www.w3.org/html/
-[css]: https://www.w3.org/Style/CSS/
-[vim]: https://www.vim.org
+[PHP]: https://php.net
+[LAMP]: https://en.wikipedia.org/wiki/LAMP_(software_bundle)
+[SimpleImage]: https://github.com/claviska/SimpleImage
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[HTML]: https://www.w3.org/html/
+[CSS]: https://www.w3.org/Style/CSS/
+[Vim]: https://www.vim.org
 [filemaker.vim]: https://github.com/chivalry/filemaker.vim
-[ultisnips]: https://github.com/SirVer/ultisnips
-[textmate]: https://macromates.com
+[UltiSnips]: https://github.com/SirVer/ultisnips
+[TextMate]: https://macromates.com
 [filemaker-textmate-bundle]: https://github.com/chivalry/filemaker-textmate-bundle
-[xojo]: https://www.xojo.com
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[c++]: https://isocpp.org
-[objective-c]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-[objective-c++]: https://en.wikipedia.org/wiki/Objective-C#Objective-C++
-[xml]: https://www.w3.org/TR/REC-xml/
-[xslt]: https://www.w3.org/standards/xml/transformation
-[macos]: https://www.apple.com/macos/mojave/
-[macosserver]: https://www.apple.com/macos/server/
-[ios]: https://www.apple.com/ios/ios-12/
-[ubuntu]: https://www.ubuntu.com
-[linux]: https://en.wikipedia.org/wiki/Linux
-[windows]: https://windows.microsoft.com
-[chivalry]: http://chivalrysoftware.com
-[book-of-filemaker]: https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816
-[filemaker-magazine]: https://www.filemakermagazine.com
-[atpm]: http://atpm.com
-[macworld]: https://www.macworld.com
-[xcode]: https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8
-[vb]: https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation
-[mysql]: https://www.mysql.com
-[ucla]: http://www.ucla.edu
-[fmdisc]: http://fmdisc.org/pages/about.html
-[fmforums]: https://fmforums.com
-[bsa]: http://scouting.org
-[hola]: https://www.heartofla.org
-[first]: https://www.firstinspires.org
+[Xojo]: https://www.xojo.com
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[C++]: https://isocpp.org
+[Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[Objective-C++]: https://en.wikipedia.org/wiki/Objective-C#Objective-C++
+[XML]: https://www.w3.org/TR/REC-xml/
+[XSLT]: https://www.w3.org/standards/xml/transformation
+[macOS]: https://www.apple.com/macos/mojave/
+[macOS Server]: https://www.apple.com/macos/server/
+[iOS]: https://www.apple.com/ios/ios-12/
+[Ubuntu]: https://www.ubuntu.com
+[Linux]: https://en.wikipedia.org/wiki/Linux
+[Windows]: https://windows.microsoft.com
+[The Book of FileMaker]: https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816
+[ISO FileMaker Magazine]: https://www.filemakermagazine.com
+[About This Particular Macintosh]: http://atpm.com
+[Macworld Magazine]: https://www.macworld.com
+[Xcode 5: Start to Finish]: https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8
+[Visual Basic]: https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation
+[MySQL]: https://www.mysql.com
+[UCLA]: http://www.ucla.edu
+[FileMaker Developers in Southern California]: http://fmdisc.org/pages/about.html
+[FMForums.com]: https://fmforums.com
+[Boy Scouts of America]: http://scouting.org
+[Heart of Los Angeles]: https://www.heartofla.org
+[FIRST]: https://www.firstinspires.org
 [alexandria]: https://github.com/chivalry/alexandria
-[heroku]: https://www.heroku.com
-[docker]: https://www.docker.com
-[aws]: https://aws.amazon.com
+[Amazon Web Services]: https://aws.amazon.com
