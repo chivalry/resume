@@ -13,17 +13,17 @@ email: chivalry@mac.com
     - FileMaker Pro versions 2–18
     - FileMaker Server versions 3–18
     - macOS, Windows, iOS, Custom Web Publishing, and WebDirect
-    - [ScriptMaster](scriptmaster), [BaseElements](baseelements), [xmCHART](xmchart), [SmartPill PHP](smartpill), and other plugins
+    - [ScriptMaster], [BaseElements], [xmCHART], [SmartPill PHP], and other plugins
     - Plugin development using C++ and Objective-C++
-    - Automation and integration with [AppleScript](applescript)
-    - Creator of numerous projects, including [alexandria](alexandria), [filemaker-custom-functions](filemaker-custom-functions), and [filemaker-dictionary](filemaker-dictionary)
-    - Contributor to [FMEasyAudit](fmeasyaudit)
-    - Maintainer of numerous projects, including [FMAuthenticator](fmauthenticator) and [FMEasySync](fmeasysync)
-- Intermediate skills with [Python 3](python)
-    - Web development using [Flask](flask) and [PostgreSQL](postgresql) with [Heroku](heroku) and [Docker](docker) deployment
-    - Creator of [structured-flask](structured-flask) and [cbstar](cbstar) projects
-    - Author of [meta-python](meta-python) book-length tutorial
-    - Contributor to [Flask](flask), [Werkzeug](werkzeug), [Flask-Bcrypt](flask-bcrypt), [flask-starter](flask-starter), and [Flask-Dotenv](flask-dotenv) projects
+    - Automation and integration with [AppleScript]
+    - Creator of numerous projects, including [alexandria], [filemaker-custom-functions])
+    - Contributor to [FMEasyAudit]
+    - Maintainer of numerous projects, including [FMAuthenticator] and [FMEasySync]
+- Intermediate skills with [Python 3]
+    - Web development using [Flask] and [PostgreSQL] with [Heroku] and [Docker] deployment
+    - Creator of [structured-flask] and [cbstar] projects
+    - Author of [meta-python] book-length tutorial
+    - Contributor to [Flask], [Werkzeug], [Flask-Bcrypt], [flask-starter], and [Flask-Dotenv] projects
 - Intermediate skills with [PHP](php)
     - [LAMP](lamp)-based web publishing
     - Contributions to [SimpleImage](simpleimage)
@@ -118,29 +118,29 @@ email: chivalry@mac.com
 
 
 [FileMaker Pro]: https://www.filemaker.com
-[scriptmaster]: https://360works.com/scriptmaster/
-[baseelements]: https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin
-[xmchart]: https://www.x2max.com/home/
-[smartpill]: https://www.scodigo.com
-[applescript]: https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html
+[ScriptMaster]: https://360works.com/scriptmaster/
+[BaseElements]: https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin
+[xmChart]: https://www.x2max.com/home/
+[SmartPill PHP]: https://www.scodigo.com
+[AppleScript]: https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html
 [fm-dev-start]: https://github.com/chivalry/fm-dev-start
 [filemaker-custom-functions]: https://github.com/chivalry/filemaker-custom-functions
 [filemaker-dictionary]: https://github.com/chivalry/filemaker-dictionary
-[fmeasyaudit]: https://github.com/chivalry/FMEasyAudit
-[fmauthenticator]: https://github.com/chivalry/FMAuthenticator
-[fmeasysync]: https://github.com/chivalry/FMEasySync
-[python]: https://www.python.org
-[flask]: http://flask.pocoo.org
-[postgresql]: https://www.postgresql.org
-[heroku]: https://www.heroku.com
-[docker]: https://www.docker.com
+[FMEasyAudit]: https://github.com/chivalry/FMEasyAudit
+[FMAuthenticator]: https://github.com/chivalry/FMAuthenticator
+[FMEasySync]: https://github.com/chivalry/FMEasySync
+[Python 3]: https://www.python.org
+[Flask]: http://flask.pocoo.org
+[PostgreSQL]: https://www.postgresql.org
+[Heroku]: https://www.heroku.com
+[Docker]: https://www.docker.com
 [structured-flask]: https://github.com/chivalry/structured-flask
 [cbstar]: https://github.com/chivalry/cbstar
 [meta-python]: https://github.com/chivalry/meta-python
-[werkzeug]: https://werkzeug.palletsprojects.com/en/0.15.x/
-[flask-bcrypt]: https://flask-bcrypt.readthedocs.io/en/latest/
+[Werkzeug]: https://werkzeug.palletsprojects.com/en/0.15.x/
+[Flask-Bcrypt]: https://flask-bcrypt.readthedocs.io/en/latest/
 [flask-starter]: https://github.com/carc1n0gen/flask-starter
-[flask-dotenv]: https://github.com/grauwoelfchen/flask-dotenv/
+[Flask-Dotenv]: https://github.com/grauwoelfchen/flask-dotenv/
 [php]: https://php.net
 [lamp]: https://en.wikipedia.org/wiki/LAMP_(software_bundle)
 [simpleimage]: https://github.com/claviska/SimpleImage
