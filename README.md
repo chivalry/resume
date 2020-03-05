@@ -8,7 +8,7 @@ email: chivalry@mac.com
 
 ## Technical Skills
 
-- Advanced skills with [FileMaker Pro](filemaker)
+- Advanced skills with [FileMaker Pro]
     - Certified FileMaker Developer
     - FileMaker Pro versions 2–18
     - FileMaker Server versions 3–18
@@ -117,7 +117,7 @@ email: chivalry@mac.com
 
 
 
-[filemaker]: https://www.filemaker.com
+[FileMaker Pro]: https://www.filemaker.com
 [scriptmaster]: https://360works.com/scriptmaster/
 [baseelements]: https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin
 [xmchart]: https://www.x2max.com/home/
