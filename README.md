@@ -137,7 +137,7 @@ email: chivalry@mac.com
 [structured-flask]: https://github.com/chivalry/structured-flask
 [cbstar]: https://github.com/chivalry/cbstar
 [meta-python]: https://github.com/chivalry/meta-python
-[Werkzeug]: https://werkzeug.palletsprojects.com/en/0.15.x/
+[Werkzeug]: https://werkzeug.palletsprojects.com/
 [Flask-Bcrypt]: https://flask-bcrypt.readthedocs.io/en/latest/
 [flask-starter]: https://github.com/carc1n0gen/flask-starter
 [Flask-Dotenv]: https://github.com/grauwoelfchen/flask-dotenv/
