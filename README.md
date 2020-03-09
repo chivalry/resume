@@ -22,7 +22,7 @@ email: chivalry@mac.com
 - Intermediate skills with [Python 3]
     - Web development using [Flask] and [PostgreSQL] with [Heroku] and [Docker] deployment
     - Creator of [structured-flask] and [cbstar] projects
-    - Author of [meta-python] book-length tutorial
+    - Author of [meta-python] book-length tutorial (in progress)
     - Contributor to [Flask], [Werkzeug], [Flask-Bcrypt], [flask-starter], and [Flask-Dotenv] projects
 - Intermediate skills with [PHP]
     - [LAMP]-based web publishing
