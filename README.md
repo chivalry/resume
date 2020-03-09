@@ -18,7 +18,7 @@ email: chivalry@mac.com
     - Automation and integration with [AppleScript]
     - Creator of numerous projects, including [alexandria], [filemaker-custom-functions])
     - Contributor to [FMEasyAudit]
-    - Maintainer of numerous projects, including [FMAuthenticator] and [FMEasySync]
+    - Maintainer of numerous projects, including [FMAuthenticator] and [FMEasySync] (now integrated into alexandria)
 - Intermediate skills with [Python 3]
     - Web development using [Flask] and [PostgreSQL] with [Heroku] and [Docker] deployment
     - Creator of [structured-flask] and [cbstar] projects
