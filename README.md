@@ -16,7 +16,7 @@ email: chivalry@mac.com
     - [ScriptMaster], [BaseElements], [xmCHART], [SmartPill PHP], and other plugins
     - Plugin development using C++ and Objective-C++
     - Automation and integration with [AppleScript]
-- Creator of numerous projects, including [alexandria], [filemaker-custom-functions])
+- Creator of numerous FileMaker open source projects, including [alexandria], [filemaker-custom-functions])
     - Contributor to [FMEasyAudit]
     - Maintainer of numerous projects, including [FMAuthenticator] and [FMEasySync] (now integrated into alexandria)
 - Intermediate skills with [Python 3]
