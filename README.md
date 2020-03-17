@@ -38,7 +38,7 @@ email: chivalry@mac.com
 - [XML] and [XSLT]
 - Advanced skills with [macOS], [macOS Server], and [iOS]
 - Experience with [Ubuntu] [Linux] and [Windows]
-- Experience with [Heroku], [Amazon Web Servers], and [Docker]
+- Experience with [Heroku], [Amazon Web Services], and [Docker]
 
 ## Professional Experience
 
