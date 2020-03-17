@@ -107,7 +107,7 @@ email: chivalry@mac.com
 ## Education, Professional Affiliations, and Volunteer Work
 
 - Studied Mathematics, Specialization in Computing at [University of California, Los Angeles](ucla)
-- Mentor at [Exercism]
+- Mentor at [Exercism's] Python track
 - Interviewed by filemakeraddicts.com series on prominent FileMaker developers
 - Member, [FileMaker Developers in Southern California](fmdisc) for 3 years
 - Moderator on [FMForums.com](fmdisc) for 10 years
