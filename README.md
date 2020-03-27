@@ -181,4 +181,4 @@ email: chivalry@mac.com
 [FIRST]: https://www.firstinspires.org
 [alexandria]: https://github.com/chivalry/alexandria
 [Amazon Web Services]: https://aws.amazon.com
-[Exercism]: https://exercism.io
+[Exercism's]: https://exercism.io
