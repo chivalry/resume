@@ -70,7 +70,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Creator of filemaker-textmate-bundle, a TextMate extension to support FileMaker calculations
   - Contributor to SimpleImage, a PHP library
   - Contributor to UltiSnips, a [Vim] plugin to support TextMate-like snippets
-- Mentor at [excercism’s] Python track
+- Mentor on Python track at [Exercism]
 - Moderator on [FMForums.com]
 - Member of [FileMaker Developers in Southern California]
 - In top 10% of [Stack Overflow] users
@@ -119,4 +119,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Boy Scouts of America]: https://www.scouting.org
 [Heart of Los Angeles]: https://www.heartofla.org
 [FIRST]: https://www.firstinspires.org
-[exercism's]: https://exercism.io
+[Exercism]: https://exercism.io
