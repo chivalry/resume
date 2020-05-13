@@ -59,7 +59,7 @@ email: chivalry@mac.com
 
 University of California Los Angles — Mathematics with Specialization in Computing
 
-# Community
+## Community
 
 - Open source projects:
   - Creator of [structured-flask], a starter project for Flask with common extensions
