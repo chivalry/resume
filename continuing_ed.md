@@ -1,4 +1,4 @@
-- [Express Web Framework]
+- [Express Web Framework] - September, 2020
 - [Comprehending Comprehensions] - July, 2020
 - [Build a SAAS App with Flask] - June, 2019
 - [Modern JavaScript Bootcamp] - May, 2020
