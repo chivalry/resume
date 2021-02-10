@@ -34,7 +34,7 @@ email: chivalry@mac.com
 - Administer client servers, including FileMaker Server, Debian-based web servers, and Heroku
 - Provide consulting to guide technology decisions
 
-### WRiter, Various Publications — 2000-Present
+### Writer, Various Publications — 2000-Present
 
 - Performed technical editing of [Xcode 5: Start to Finish]
 - Performed technical editing and wrote two chapters of [The Book of FileMaker]
