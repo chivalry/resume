@@ -60,6 +60,23 @@ email: chivalry@mac.com
 
 University of California Los Angles — Mathematics with Specialization in Computing
 
+## Social
+
+- [GitHub]
+- [Stack Overflow]
+- [LinkedIn]
+
+## Certifications
+
+- Certified FileMaker Developer (7, 8, 9)
+- [Python (Basic)] - April, 2020
+- [JavaScript (Basic)] - April, 2020
+- [JavaScript Algorithms and Data Structures] - May, 2020
+- [Responsive Web Design] - May, 2020
+- [Salesforce Superbadges]:
+  - Lightning Experience Specialist - February, 2021
+  - Security Specialist - February, 2021
+
 ## Community
 
 - Open source projects:
@@ -124,3 +141,11 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Exercism]: https://exercism.io
 [Salesforce]: https://www.salesforce.com
 [vim]: https://www.vim.org
+[Python (Basic)]: https://www.hackerrank.com/certificates/4b8f02ef72d7
+[JavaScript (Basic)]: https://www.hackerrank.com/certificates/8dd79ada7fea
+[JavaScript Algorithms and Data Structures]: https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures
+[Responsive Web Design]: https://www.freecodecamp.org/certification/chivalry/responsive-web-design
+[Salesforce Superbadges]: https://trailblazer.me/id/chivalry
+[LinkedIn]: https://www.linkedin.com/in/chivalry/
+[Stack Overflow]: https://stackoverflow.com/users/65659/chuck
+[GitHub: https://github.com/chivalry
