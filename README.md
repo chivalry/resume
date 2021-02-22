@@ -148,4 +148,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Salesforce Superbadges]: https://trailblazer.me/id/chivalry
 [LinkedIn]: https://www.linkedin.com/in/chivalry/
 [Stack Overflow]: https://stackoverflow.com/users/65659/chuck
-[GitHub: https://github.com/chivalry
+[GitHub]: https://github.com/chivalry
