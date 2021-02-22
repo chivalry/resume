@@ -18,6 +18,7 @@ email: chivalry@mac.com
 - [Xojo] app deployment to macOS and Windows
 - [MySQL] and [PostgreSQL] as back end stores for desktop and web apps
 - [XML], [XSLT], and [JSON] for data exchange between internal client apps and external services
+- [Salesforce] administration and development
 
 ## Experience
 
@@ -67,6 +68,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Maintainer of [FMEasyAudit] FileMaker module for automating audit trails
   - Contributor to Flask, [Werkzeug], [Flask-Bcrypt], [Flask-Dotenv], and [flask-starter]
   - Creator of [filemaker.vim], a Vim plugin to support FileMaker calculations
+  - Contributor to [vim] text editor
   - Creator of filemaker-textmate-bundle, a TextMate extension to support FileMaker calculations
   - Contributor to SimpleImage, a PHP library
   - Contributor to UltiSnips, a [Vim] plugin to support TextMate-like snippets
@@ -120,3 +122,5 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Heart of Los Angeles]: https://www.heartofla.org
 [FIRST]: https://www.firstinspires.org
 [Exercism]: https://exercism.io
+[Salesforce]: https://www.salesforce.com
+[vim]: https://www.vim.org
