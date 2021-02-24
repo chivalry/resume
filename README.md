@@ -74,6 +74,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 - [JavaScript Algorithms and Data Structures] - May, 2020
 - [Responsive Web Design] - May, 2020
 - [Salesforce Superbadges]:
+  - Apex Specialist - February, 2021
   - Lightning Experience Specialist - February, 2021
   - Security Specialist - February, 2021
 
