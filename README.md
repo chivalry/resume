@@ -77,6 +77,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Apex Specialist - February, 2021
   - Lightning Experience Specialist - February, 2021
   - Security Specialist - February, 2021
+  - App Customization Specialist - March 2021
 
 ## Community
 
