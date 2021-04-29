@@ -78,6 +78,8 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Lightning Experience Specialist - February, 2021
   - Security Specialist - February, 2021
   - App Customization Specialist - March 2021
+- [Arctic Code Vault Contributor] - February 2020
+- [Mars 2020 Helicopter Contributor] - April 2021
 
 ## Community
 
@@ -151,3 +153,5 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [LinkedIn]: https://www.linkedin.com/in/chivalry/
 [Stack Overflow]: https://stackoverflow.com/users/65659/chuck
 [GitHub]: https://github.com/chivalry
+[Arctic Code Vault Contributor]: https://archiveprogram.github.com
+[Mars 2020 Helicopter Contributor]: https://github.com/readme/nasa-ingenuity-helicopter
