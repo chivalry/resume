@@ -80,6 +80,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - App Customization Specialist - March 2021
 - [Arctic Code Vault Contributor] - February 2020
 - [Mars 2020 Helicopter Contributor] - April 2021
+- [Git and Github Beginner to Expert] - June 2021
 
 ## Community
 
@@ -155,3 +156,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [GitHub]: https://github.com/chivalry
 [Arctic Code Vault Contributor]: https://archiveprogram.github.com
 [Mars 2020 Helicopter Contributor]: https://github.com/readme/nasa-ingenuity-helicopter
+[Git and Github Beginner to Expert]: https://stackskills.com/p/complete-git-and-github-beginner-to-expert
