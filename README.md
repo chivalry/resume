@@ -11,6 +11,7 @@ email: chivalry@mac.com
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [Script Master], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
+- [Salesforce] administration and development
 - [AppleScript] automation
 - [Objective-C++] deployment to macOS FileMaker plugin
 - [PHP] app deployment to web using [CakePHP] framework
@@ -18,7 +19,6 @@ email: chivalry@mac.com
 - [Xojo] app deployment to macOS and Windows
 - [MySQL] and [PostgreSQL] as back end stores for desktop and web apps
 - [XML], [XSLT], and [JSON] for data exchange between internal client apps and external services
-- [Salesforce] administration and development
 
 ## Experience
 
