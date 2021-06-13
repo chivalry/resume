@@ -68,7 +68,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 
 ## Certifications
 
-- Certified FileMaker Developer (7, 8, 9)
+- Certified FileMaker Developer
 - [Python (Basic)] - April, 2020
 - [JavaScript (Basic)] - April, 2020
 - [JavaScript Algorithms and Data Structures] - May, 2020
