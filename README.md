@@ -82,6 +82,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 - [Mars 2020 Helicopter Contributor] - April 2021
 - [Git and Github Beginner to Expert] - June 2021
 - [GitHub Ultimate: Master Git and GitHub - Beginner to Expert] - June 2021
+- [Mastering Bash Shell Scripting] - June 2021
 
 ## Community
 
@@ -159,3 +160,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Mars 2020 Helicopter Contributor]: https://github.com/readme/nasa-ingenuity-helicopter
 [Git and Github Beginner to Expert]: https://stackskills.com/p/complete-git-and-github-beginner-to-expert
 [GitHub Ultimate: Master Git and GitHub - Beginner to Expert]: https://www.udemy.com/certificate/UC-cd928d7f-b5b9-462e-a72f-1075c2e33f56/
+[Mastering Bash Shell Scripting]: https://stackskills.com/p/bash-shell-scripting
