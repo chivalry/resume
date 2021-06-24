@@ -10,8 +10,8 @@ email: chivalry@mac.com
 
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
-- FileMaker plugins: [Script Master], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
-- [Salesforce] administration and development
+- FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
+- [Salesforce] administration and development using [JavaScript] and [Apex]
 - [AppleScript] automation
 - [Objective-C++] deployment to macOS FileMaker plugin
 - [PHP] app deployment to web using [CakePHP] framework
@@ -19,6 +19,22 @@ email: chivalry@mac.com
 - [Xojo] app deployment to macOS and Windows
 - [MySQL] and [PostgreSQL] as back end stores for desktop and web apps
 - [XML], [XSLT], and [JSON] for data exchange between internal client apps and external services
+
+##Awards
+
+<div class="border-top color-border-secondary pt-3 mt-3 d-none d-md-block">
+  <h2 class="h4 mb-2">Achievements</h2>
+  <div class="d-flex"><div class="position-relative">
+    <a href="https://github.com/readme/nasa-ingenuity-helicopter" class="d-inline-block" data-hovercard-type="nasa_2020_badge" data-hovercard-url="/users/chivalry/profile_highlights/nasa_2020/hovercard">
+      <img alt="Mars 2020 Helicopter Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--mars-64.png">
+    </a>
+  </div>
+  <div class="position-relative">
+    <a href="https://archiveprogram.github.com/" class="d-inline-block" data-hovercard-type="acv_badge" data-hovercard-url="/users/chivalry/acv/hovercard">
+      <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
+    </a>
+  </div>
+</div>
 
 ## Experience
 
@@ -65,6 +81,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 - [GitHub]
 - [Stack Overflow]
 - [LinkedIn]
+- [Salesforce Trailhead]
 
 ## Certifications
 
@@ -161,3 +178,6 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Git and Github Beginner to Expert]: https://stackskills.com/p/complete-git-and-github-beginner-to-expert
 [GitHub Ultimate: Master Git and GitHub - Beginner to Expert]: https://www.udemy.com/certificate/UC-cd928d7f-b5b9-462e-a72f-1075c2e33f56/
 [Mastering Bash Shell Scripting]: https://stackskills.com/p/bash-shell-scripting
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[Apex]: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm
+[Salesforce Trailhead]: https://trailblazer.me/id/chivalry
