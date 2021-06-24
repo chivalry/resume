@@ -20,21 +20,14 @@ email: chivalry@mac.com
 - [MySQL] and [PostgreSQL] as back end stores for desktop and web apps
 - [XML], [XSLT], and [JSON] for data exchange between internal client apps and external services
 
-##Awards
+##Achievements
 
-<div class="border-top color-border-secondary pt-3 mt-3 d-none d-md-block">
-  <h2 class="h4 mb-2">Achievements</h2>
-  <div class="d-flex"><div class="position-relative">
-    <a href="https://github.com/readme/nasa-ingenuity-helicopter" class="d-inline-block" data-hovercard-type="nasa_2020_badge" data-hovercard-url="/users/chivalry/profile_highlights/nasa_2020/hovercard">
+<a href="https://github.com/readme/nasa-ingenuity-helicopter" class="d-inline-block" data-hovercard-type="nasa_2020_badge" data-hovercard-url="/users/chivalry/profile_highlights/nasa_2020/hovercard">
       <img alt="Mars 2020 Helicopter Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--mars-64.png">
-    </a>
-  </div>
-  <div class="position-relative">
+    </a> Mars 2020 Helicopter Contributor
     <a href="https://archiveprogram.github.com/" class="d-inline-block" data-hovercard-type="acv_badge" data-hovercard-url="/users/chivalry/acv/hovercard">
       <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
-    </a>
-  </div>
-</div>
+    </a>Arctic Code Vault Contributor
 
 ## Experience
 
