@@ -25,7 +25,7 @@ email: chivalry@mac.com
 Mars 2020 Helicopter Contributor <br />
 <a href="https://github.com/readme/nasa-ingenuity-helicopter" class="d-inline-block" data-hovercard-type="nasa_2020_badge" data-hovercard-url="/users/chivalry/profile_highlights/nasa_2020/hovercard">
       <img alt="Mars 2020 Helicopter Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--mars-64.png">
-    </a> 
+    </a> <br />
 Arctic Code Vault Contributor <br />
 <a href="https://archiveprogram.github.com/" class="d-inline-block" data-hovercard-type="acv_badge" data-hovercard-url="/users/chivalry/acv/hovercard">
       <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
