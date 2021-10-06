@@ -8,6 +8,7 @@ email: chivalry@mac.com
 
 ## Skills
 
+- Web development using [Lightning Web Components]
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
@@ -176,3 +177,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
 [Apex]: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm
 [Salesforce Trailhead]: https://trailblazer.me/id/chivalry
+[Lightning Web Components]: https://developer.salesforce.com/docs/component-library/documentation/en/lwc
