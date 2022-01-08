@@ -8,7 +8,7 @@ email: chivalry@mac.com
 
 ## Skills
 
-- Web development using [Lightning Web Components]
+- Full stack web development using [Lightning Web Components]
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
