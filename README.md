@@ -33,7 +33,7 @@ email: chivalry@mac.com
 ### Developer & Proprietor, Chivalry Software — 2004-Present
 
 - Built custom apps for clients for macOS, Windows, iOS and the web, including:
-  - Lead developer and repository maintainer for a custom CRM web app using the Salesforce's Lightning Platform
+  - Lead developer and project architect for a custom CRM web app using the Salesforce's Lightning Platform
   - Gamified training app for iPhone allowing salespeople to confirm training level while competing with each other for points
   - Employee candidate assessment app for iPad administering personality tests for HR evaluation
   - Employee candidate tracking app for macOS that integrated automatic texting during hiring process
