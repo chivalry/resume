@@ -33,7 +33,8 @@ email: chivalry@mac.com
 ### Developer & Proprietor, Chivalry Software — 2004-Present
 
 - Built custom apps for clients for macOS, Windows, iOS and the web, including:
-  - Lead developer and project architect for a custom CRM web app using the Salesforce's Lightning Platform
+  - Lead developer and application architect for a custom CRM web app using the Salesforce's Lightning Platform
+  - Internal FileMaker modules for a FileMaker consultancy used across client projects
   - Gamified training app for iPhone allowing salespeople to confirm training level while competing with each other for points
   - Employee candidate assessment app for iPad administering personality tests for HR evaluation
   - Employee candidate tracking app for macOS that integrated automatic texting during hiring process
@@ -41,6 +42,8 @@ email: chivalry@mac.com
   - Web-based survey app with administrative interface to customize available questions and retrieve results
   - Internal support ticket app for iOS with desktop administrative console and new ticket announcements sent to Slack
   - File conversion app for accounting department to translate POS sales data into QuickBooks format
+  - Project tracker and electronic invoice submission app using REST API for movie poster design agency
+  - Inventory tracking apps for various businesses, including sellers of education materials and manufactured materials
 - Administer client servers, including FileMaker Server, Debian-based web servers, and Heroku
 - Provide consulting to guide technology decisions
 
@@ -65,6 +68,23 @@ email: chivalry@mac.com
 - Automated data exchange with vendor services
 - Maintained internal macOS based server running database, file, mail, chat, web, backup, directory, and calendar services
 - Provided IT support and training for employees
+
+### Industries
+
+While I take pride and pleasure learning about industries I've not yet worked for, the industries I have worked for include:
+
+- Accounting
+- Amusement Park
+- Education
+- Entertainment
+- Graphic Design
+- Legal
+- Mortgage Brokerage
+- Manufacturing
+- Occupational Certification
+- Publishing
+- Real Estate Management
+- Retail
 
 ## Education
 
