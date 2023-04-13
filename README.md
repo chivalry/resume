@@ -10,7 +10,7 @@ email: chivalry@mac.com
 
 ## Skills
 
-- Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript] and [Apex]
+- Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL].
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
@@ -51,6 +51,7 @@ email: chivalry@mac.com
 - Wrote [Roll Your Own] tutorial series for About This Particular Macintosh using AppleScript as the student language
 - Wrote [FileMaking] tutorial series for About This Particular Macintosh using FileMaker as the student language
 - Wrote article for Macworld Magazine about integrating FileMaker and Apple’s Calendar app using AppleScript
+- Wrote reviews and tutorial articles for [ISO FileMaker Magazine]
 
 ### Manager of Software Development, Bert Howe and Associates — 2007–2008
 
@@ -106,7 +107,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Creator of filemaker-textmate-bundle, a TextMate extension to support FileMaker calculations
   - Contributor to SimpleImage, a PHP library
   - Contributor to UltiSnips, a [Vim] plugin to support TextMate-like snippets
-- Mentor on Python track at [Exercism]
+- Mentor on Python and JavaScript tracks at [Exercism]
 - Moderator on [FMForums.com]
 - Member of [FileMaker Developers in Southern California]
 - In top 10% of [Stack Overflow] users
@@ -175,3 +176,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Apex]: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm
 [Salesforce Trailhead]: https://trailblazer.me/id/chivalry
 [Lightning Web Components]: https://developer.salesforce.com/docs/component-library/documentation/en/lwc
+[SOQL]: https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm
+[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[ISO FileMaker Magazine]: https://www.filemakermagazine.com
