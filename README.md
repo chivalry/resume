@@ -119,6 +119,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 ## Community
 
 - Open source projects:
+  - Creator of [lwc-popover-window] a Lightning Web Component that componentizes the popover class from the Lightning Design System
   - Creator of [structured-flask], a starter project for Flask with common extensions
   - Creator of [alexandria], a starter project for FileMaker with common modules and custom functions
   - Maintainer of [FMEasyAudit] FileMaker module for automating audit trails
@@ -199,5 +200,6 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [Lightning Web Components]: https://developer.salesforce.com/docs/component-library/documentation/en/lwc
 [SOQL]: https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm
 [HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[lwc-popover-window]: https://github.com/tythonco/lwc-popover-window
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [ISO FileMaker Magazine]: https://www.filemakermagazine.com
