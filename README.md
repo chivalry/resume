@@ -118,8 +118,6 @@ chivalry@mac.com
   - Lightning Experience Specialist - February, 2021
   - Security Specialist - February, 2021
   - App Customization Specialist - March 2021
-- [Arctic Code Vault Contributor] - February 2020
-- [Mars 2020 Helicopter Contributor] - April 2021
 - [Git and Github Beginner to Expert] - June 2021
 - [GitHub Ultimate: Master Git and GitHub - Beginner to Expert] - June 2021
 - [Mastering Bash Shell Scripting] - June 2021
