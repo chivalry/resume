@@ -21,6 +21,7 @@ email: chivalry@mac.com
 - [Xojo] app deployment to macOS and Windows
 - [MySQL] and [PostgreSQL] as back end stores for desktop and web apps
 - [XML], [XSLT], and [JSON] for data exchange between internal client apps and external services
+- UI/UX design with various tools (HTML/CSS, FileMaker, Xcode, Xojo)
 
 ## Achievements
 
