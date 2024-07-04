@@ -138,7 +138,6 @@ While I take pride and pleasure learning about industries I've not yet worked fo
   - Creator of [filemaker.vim], a Vim plugin to support FileMaker calculations
   - Contributor to [vim] text editor
   - Creator of filemaker-textmate-bundle, a TextMate extension to support FileMaker calculations
-  - Contributor to [Vim], a popular text editor
   - Contributor to SimpleImage, a PHP library
   - Contributor to UltiSnips, a Vim plugin to support TextMate-like snippets
 - Mentor on Python and JavaScript tracks at [Exercism]
