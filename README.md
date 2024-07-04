@@ -3,10 +3,9 @@
 <a href="https://stackexchange.com/users/25531"><img src="https://stackexchange.com/users/flair/25531.png" width="208" height="58" alt="profile for Chuck on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Chuck on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 1319 Summerchase Rd.<br>
-San Jacinto, CA 92582
-
-phone: 951-370-5596<br>
-email: chivalry@mac.com
+San Jacinto, CA 92582<br>
+951-370-5596<br>
+chivalry@mac.com
 
 ## Skills
 
@@ -82,8 +81,6 @@ email: chivalry@mac.com
 
 ## Industries
 
-While I take pride and pleasure learning about industries I've not yet worked for, the industries I have worked for include:
-
 - Academia
 - Accounting
 - Amusement Park
@@ -121,8 +118,6 @@ While I take pride and pleasure learning about industries I've not yet worked fo
   - Lightning Experience Specialist - February, 2021
   - Security Specialist - February, 2021
   - App Customization Specialist - March 2021
-- [Arctic Code Vault Contributor] - February 2020
-- [Mars 2020 Helicopter Contributor] - April 2021
 - [Git and Github Beginner to Expert] - June 2021
 - [GitHub Ultimate: Master Git and GitHub - Beginner to Expert] - June 2021
 - [Mastering Bash Shell Scripting] - June 2021
