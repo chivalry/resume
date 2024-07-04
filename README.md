@@ -100,7 +100,7 @@ While I take pride and pleasure learning about industries I've not yet worked fo
 
 ## Education
 
-University of California Los Angles — Mathematics with Specialization in Computing
+[University of California Los Angles] — Mathematics with Specialization in Computing
 
 ## Social
 
@@ -215,3 +215,4 @@ University of California Los Angles — Mathematics with Specialization in Compu
 [lwc-popover-window]: https://github.com/tythonco/lwc-popover-window
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [ISO FileMaker Magazine]: https://www.filemakermagazine.com
+[University of California Los Angles]: https://www.ucla.edu
