@@ -12,7 +12,7 @@ email: chivalry@mac.com
 
 - Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL].
 - [Python] deployment to web using [Flask] framework
-- [FileMaker Pro] (versions 2–19, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
+- [FileMaker Pro] (versions 2–20, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
 - [AppleScript] automation
 - [Objective-C++] deployment to macOS FileMaker plugin
