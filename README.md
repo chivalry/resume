@@ -48,8 +48,9 @@ email: chivalry@mac.com
 - Administer client servers, including FileMaker Server, Debian-based web servers, and Heroku
 - Provide consulting to guide technology decisions
 
-### Writer, Various Publications — 2000-Present
+### Writer/Editor, Various Publications — 2000-Present
 
+- Blog posts regarding FileMaker, Salesforce and general programming skills
 - Performed technical editing of [Xcode 5: Start to Finish]
 - Performed technical editing and wrote two chapters of [The Book of FileMaker]
 - Wrote [Roll Your Own] tutorial series for About This Particular Macintosh using AppleScript as the student language
@@ -143,7 +144,7 @@ University of California Los Angles — Mathematics with Specialization in Compu
 - Moderator on [FMForums.com]
 - Member of [FileMaker Developers in Southern California]
 - In top 10% of [Stack Overflow] users
-- Den Leader, Awards Chair, Merit Badge Councilor with [Boy Scouts of America] for 10 years
+- Den Leader, Awards Chair, Merit Badge Counselor with [Boy Scouts of America] for 10 years
 - Tutor for [Heart of Los Angeles] for 2 years
 - Programming mentor with [FIRST] for 1 year
 - Kindergarten Sunday school teacher for 2 years
