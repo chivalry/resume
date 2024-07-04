@@ -46,7 +46,7 @@ email: chivalry@mac.com
   - File conversion app for accounting department to translate POS sales data into QuickBooks format
   - Project tracker and electronic invoice submission app using REST API for movie poster design agency
   - Inventory tracking apps for various businesses, including sellers of education materials and manufactured materials
-- Administer client servers, including FileMaker Server, Debian-based web servers, and Heroku
+- Administer client servers, including FileMaker Server, Salesforce orgs, Linux-based web servers, and Heroku
 - Provide consulting to guide technology decisions
 
 ### Writer/Editor, Various Publications — 2000-Present
