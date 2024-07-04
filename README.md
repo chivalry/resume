@@ -81,8 +81,6 @@ chivalry@mac.com
 
 ## Industries
 
-While I take pride and pleasure learning about industries I've not yet worked for, the industries I have worked for include:
-
 - Academia
 - Accounting
 - Amusement Park
