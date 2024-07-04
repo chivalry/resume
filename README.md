@@ -4,9 +4,8 @@
 
 1319 Summerchase Rd.<br>
 San Jacinto, CA 92582
-
-phone: 951-370-5596<br>
-email: chivalry@mac.com
+951-370-5596<br>
+chivalry@mac.com
 
 ## Skills
 
