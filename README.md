@@ -70,10 +70,19 @@ email: chivalry@mac.com
 - Maintained internal macOS based server running database, file, mail, chat, web, backup, directory, and calendar services
 - Provided IT support and training for employees
 
-### Industries
+### Developer, Productive Computing — 2003–2004
+
+### Senior Developer, Metro Technologies — 2000–2003
+
+### Manager of Information Systems/Database Analyst, Direct Partners — 1993–1999
+
+### Manager of Information Technologies, Grey Advertising — 1993–1996
+
+## Industries
 
 While I take pride and pleasure learning about industries I've not yet worked for, the industries I have worked for include:
 
+- Academia
 - Accounting
 - Amusement Park
 - Education
@@ -127,8 +136,9 @@ University of California Los Angles — Mathematics with Specialization in Compu
   - Creator of [filemaker.vim], a Vim plugin to support FileMaker calculations
   - Contributor to [vim] text editor
   - Creator of filemaker-textmate-bundle, a TextMate extension to support FileMaker calculations
+  - Contributor to [Vim], a popular text editor
   - Contributor to SimpleImage, a PHP library
-  - Contributor to UltiSnips, a [Vim] plugin to support TextMate-like snippets
+  - Contributor to UltiSnips, a Vim plugin to support TextMate-like snippets
 - Mentor on Python and JavaScript tracks at [Exercism]
 - Moderator on [FMForums.com]
 - Member of [FileMaker Developers in Southern California]
