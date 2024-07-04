@@ -3,7 +3,7 @@
 <a href="https://stackexchange.com/users/25531"><img src="https://stackexchange.com/users/flair/25531.png" width="208" height="58" alt="profile for Chuck on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Chuck on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 1319 Summerchase Rd.<br>
-San Jacinto, CA 92582
+San Jacinto, CA 92582<br>
 951-370-5596<br>
 chivalry@mac.com
 
