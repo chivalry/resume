@@ -10,7 +10,7 @@ chivalry@mac.com
 ## Skills
 
 - Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL]
-- [OutSystems] developer with [OutSystems Developer Cloud] for web applications
+- [OutSystems] development with [OutSystems Developer Cloud] for web applications
 - [Python] deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–20, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
