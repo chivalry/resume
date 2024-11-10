@@ -11,7 +11,8 @@ chivalry@mac.com
 
 - Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL]
 - [OutSystems] development with [OutSystems Developer Cloud] for web applications
-- [Python] deployment to web using [Flask] framework
+- AI programming with [Python], [NumPy], [pandas], and [matplotlib]
+- Python deployment to web using [Flask] framework
 - [FileMaker Pro] (versions 2–20, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
 - [AppleScript] automation
@@ -216,3 +217,6 @@ chivalry@mac.com
 [UltiSnips]: https://github.com/SirVer/ultisnips
 [OutSystems]: https://www.outsystems.com
 [OutSystems Developer Cloud]: https://www.outsystems.com/low-code-platform/developer-cloud/
+[numpy]: https://numpy.org
+[pandas]: https://pandas.pydata.org
+[matplotlib]: https://pypi.org/project/matplotlib/
