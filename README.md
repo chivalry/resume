@@ -9,6 +9,7 @@ chivalry@mac.com
 
 ## Skills
 
+- Using AI tools, including GitHub Copilot and Replit Agent, to generate both small code additions and full applications
 - Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL]
 - [OutSystems] development with [OutSystems Developer Cloud] for web applications
 - AI programming with [Python], [NumPy], [pandas], and [matplotlib]
@@ -35,6 +36,7 @@ chivalry@mac.com
 ### Developer & Proprietor, Chivalry Software — 2004-Present
 
 - Built custom apps for clients for macOS, Windows, iOS and the web, including:
+  - Served on development team that built a custom CRM using Replit platform to create React/Node.js/PostgreSQL stack
   - Served on development team building a custom CRM using OutSystems
   - Served on development team that built a Salesforce AppExchange administrator utility for managing complex permission sets
   - Lead developer, DevOps manager, and application architect for a custom CRM web app using the Salesforce's Lightning Platform
