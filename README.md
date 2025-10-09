@@ -40,6 +40,7 @@ chivalry@mac.com
   - Served on development team building a custom CRM using OutSystems
   - Served on development team that built a Salesforce AppExchange administrator utility for managing complex permission sets
   - Lead developer, DevOps manager, and application architect for a custom CRM web app using the Salesforce's Lightning Platform
+  - Mentored junior developers within multiple projects and platforms
   - Internal FileMaker modules for a FileMaker consultancy used across client projects
   - Gamified training app for iPhone allowing salespeople to confirm training level while competing with each other for points
   - Employee candidate assessment app for iPad administering personality tests for HR evaluation
