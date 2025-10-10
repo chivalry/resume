@@ -14,7 +14,7 @@ chivalry@mac.com
 - [OutSystems] development with [OutSystems Developer Cloud] for web applications
 - AI programming with [Python], [NumPy], [pandas], and [matplotlib]
 - Python deployment to web using [Flask] framework
-- [FileMaker Pro] (versions 2–20, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
+- [FileMaker Pro] (versions 2–21, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
 - [AppleScript] automation
 - [Objective-C++] deployment to macOS FileMaker plugin
