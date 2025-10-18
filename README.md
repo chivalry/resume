@@ -128,6 +128,7 @@ chivalry@mac.com
 - [GitHub Ultimate: Master Git and GitHub - Beginner to Expert] - June 2021
 - [Mastering Bash Shell Scripting] - June 2021
 - [Docker and Kubernetes] - June 2024
+- [JavaScript Algorithms and Data Structures] - October 2025
 
 ## Community
 
@@ -223,5 +224,6 @@ chivalry@mac.com
 [OutSystems Developer Cloud]: https://www.outsystems.com/low-code-platform/developer-cloud/
 [numpy]: https://numpy.org
 [pandas]: https://pandas.pydata.org
+[JavaScript Algorithms and Data Structures]: https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures-v8
 [matplotlib]: https://pypi.org/project/matplotlib/
 [Docker and Kubernetes]: https://www.udemy.com/certificate/UC-297cb03f-3165-4379-b98e-83e4bd11ecaa/
