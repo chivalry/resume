@@ -9,9 +9,12 @@ chivalry@mac.com
 
 ## Skills
 
-- Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL].
-- [Python] deployment to web using [Flask] framework
-- [FileMaker Pro] (versions 2–20, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
+- Using AI tools, including GitHub Copilot and Replit Agent, to generate both small code additions and full applications
+- Full stack web development and [Salesforce] org administration using [Lightning Web Components] with [JavaScript], [Apex], [HTML], [CSS], and [SOQL]
+- [OutSystems] development with [OutSystems Developer Cloud] for web applications
+- AI programming with [Python], [NumPy], [pandas], and [matplotlib]
+- Python deployment to web using [Flask] framework
+- [FileMaker Pro] (versions 2–21, including FileMaker Server) app deployment to macOS, Windows, iOS, and web
 - FileMaker plugins: [ScriptMaster], [BaseElements], [xmChart], [SmartPill PHP], [360Works Email]
 - [AppleScript] automation
 - [Objective-C++] deployment to macOS FileMaker plugin
@@ -33,8 +36,11 @@ chivalry@mac.com
 ### Developer & Proprietor, Chivalry Software — 2004-Present
 
 - Built custom apps for clients for macOS, Windows, iOS and the web, including:
+  - Served on development team that built a custom CRM using Replit platform to create React/Node.js/PostgreSQL stack
+  - Served on development team building a custom CRM using OutSystems
   - Served on development team that built a Salesforce AppExchange administrator utility for managing complex permission sets
   - Lead developer, DevOps manager, and application architect for a custom CRM web app using the Salesforce's Lightning Platform
+  - Mentored junior developers within multiple projects and platforms
   - Internal FileMaker modules for a FileMaker consultancy used across client projects
   - Gamified training app for iPhone allowing salespeople to confirm training level while competing with each other for points
   - Employee candidate assessment app for iPad administering personality tests for HR evaluation
@@ -75,7 +81,7 @@ chivalry@mac.com
 
 ### Senior Developer, Metro Technologies — 2000–2003
 
-### Manager of Information Systems/Database Analyst, Direct Partners — 1993–1999
+### Manager of Information Systems/Database Analyst, Direct Partners — 1996–1999
 
 ### Manager of Information Technologies, Grey Advertising — 1993–1996
 
@@ -121,6 +127,8 @@ chivalry@mac.com
 - [Git and Github Beginner to Expert] - June 2021
 - [GitHub Ultimate: Master Git and GitHub - Beginner to Expert] - June 2021
 - [Mastering Bash Shell Scripting] - June 2021
+- [Docker and Kubernetes] - June 2024
+- [JavaScript Algorithms and Data Structures] - October 2025
 
 ## Community
 
@@ -212,3 +220,10 @@ chivalry@mac.com
 [University of California Los Angles]: https://www.ucla.edu
 [SimpleImage]: https://github.com/claviska/SimpleImage
 [UltiSnips]: https://github.com/SirVer/ultisnips
+[OutSystems]: https://www.outsystems.com
+[OutSystems Developer Cloud]: https://www.outsystems.com/low-code-platform/developer-cloud/
+[numpy]: https://numpy.org
+[pandas]: https://pandas.pydata.org
+[JavaScript Algorithms and Data Structures]: https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures-v8
+[matplotlib]: https://pypi.org/project/matplotlib/
+[Docker and Kubernetes]: https://www.udemy.com/certificate/UC-297cb03f-3165-4379-b98e-83e4bd11ecaa/
