@@ -6,7 +6,7 @@ San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.
 
 ## Professional Summary
 
-Senior software developer and solution architect with more than 20 years of experience building custom CRM, workflow automation, and line-of-business applications for specialized business teams. Recent work includes AI-assisted development of a custom CRM for a mortgage broker using Claude Code, alongside projects delivered with Salesforce, OutSystems, FileMaker, Python, and modern web stacks. Comfortable owning architecture, implementation, deployment, integration, and client-facing technical communication for either contract or permanent roles.
+Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a Salesforce business operations platform. Owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
 
 ## Core Skills
 
@@ -19,14 +19,13 @@ Senior software developer and solution architect with more than 20 years of expe
 
 ## Experience
 
-### Developer & Proprietor, Chivalry Software | 2004-Present
+### Developer & Proprietor, Chivalry Software | 2004–Present
 
-- Build custom CRM, operations, and workflow applications for clients in mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
-- During the last year, used Claude Code to help build a custom CRM for a mortgage broker, rapidly implementing business-specific workflows and application features in an actively evolving product.
-- Built or contributed to business systems across multiple stacks, including React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP.
-- Served as lead developer, DevOps owner, and application architect for Salesforce-based CRM work, including an AppExchange administrator utility for managing complex permission sets.
-- Delivered internal tools spanning recruiting, employee assessment, support ticketing, surveys, inventory, project tracking, invoicing, accounting conversion, and field incident reporting.
-- Guide platform selection, systems design, deployment, and ongoing maintenance for client environments, including FileMaker Server, Salesforce orgs, Linux web servers, and Heroku.
+- Delivered custom CRM, operations, and workflow applications for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
+- Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
+- Built and shipped business systems across multiple stacks: React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP.
+- Led architecture, DevOps, and implementation for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
+- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across FileMaker Server, Salesforce orgs, Linux web servers, and Heroku.
 
 #### Selected Projects
 
@@ -35,28 +34,28 @@ Senior software developer and solution architect with more than 20 years of expe
 - **Salesforce Permission Assistant** (2023–2024): Senior contributor on an AppExchange utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.
 
-### Writer / Editor, Various Publications | 2000-Present
+### Writer / Editor, Various Publications | 2000–Present
 
 - Write and edit technical content focused on FileMaker, Salesforce, AppleScript, and software development.
 - Served as technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and contributed two chapters to [The Book of FileMaker](https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816).
 - Published tutorials, reviews, and technical articles for [Macworld Magazine](https://www.macworld.com/), [ISO FileMaker Magazine](https://www.filemakermagazine.com), and [About This Particular Macintosh](http://www.atpm.com/).
 
-### Manager of Software Development, Bert Howe and Associates | 2007-2008
+### Manager of Software Development, Bert Howe and Associates | 2007–2008
 
 - Developed in-house applications supporting litigation workflow and operations.
 - Supported existing systems and advised on technical direction.
 
-### Manager of Information Systems, JobElephant.com | 2006-2007
+### Manager of Information Systems, JobElephant.com | 2006–2007
 
 - Built and maintained internal business operations software and vendor data exchanges.
 - Administered internal macOS-based infrastructure and provided employee support and training.
 
 ### Earlier Experience
 
-- Developer, Productive Computing | 2003-2004
-- Senior Developer, Metro Technologies | 2000-2003
-- Manager of Information Systems / Database Analyst, Direct Partners | 1996-1999
-- Manager of Information Technologies, Grey Advertising | 1993-1996
+- Developer, Productive Computing | 2003–2004
+- Senior Developer, Metro Technologies | 2000–2003
+- Manager of Information Systems / Database Analyst, Direct Partners | 1996–1999
+- Manager of Information Technologies, Grey Advertising | 1993–1996
 
 ## Open Source and Community
 
