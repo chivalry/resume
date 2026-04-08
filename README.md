@@ -1,6 +1,6 @@
 # Charles E. Ross
 
-San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/) | [Stack Overflow](https://stackoverflow.com/users/65659/chuck) | [Salesforce Trailhead](https://trailblazer.me/id/chivalry)
+San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/)
 
 *Also available: [Full Curriculum Vitae](curriculum-vitae.md)*
 
