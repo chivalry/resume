@@ -23,14 +23,15 @@ Senior software developer and solutions architect with more than 20 years of exp
 
 - Delivered custom CRM, operations, and workflow applications for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
 - Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
-- Built and shipped business systems across multiple stacks: React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP.
-- Led architecture, DevOps, and implementation for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
+- Built and shipped business systems across React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP, choosing the right stack for each client's workflow and delivery constraints.
+- Led architecture, DevOps, and implementation as primary technical decision-maker for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
+- Mentored junior developers across Salesforce, FileMaker, and web projects, improving onboarding and delivery consistency across engagements.
 - Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures.
 
 #### Selected Projects
 
-- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered loan pipeline management, document collection, client communication tracking, and reporting using React, Node.js, and PostgreSQL. Used AI-assisted development with Claude Code and Replit Agent throughout the engagement.
-- **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform used across HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client-facing technical communication across four years of continuous delivery.
+- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered pipeline, document, communication, and reporting workflows that streamlined day-to-day loan operations. Stack: React, Node.js, PostgreSQL; AI-assisted development with Claude Code and Replit Agent.
+- **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client communication across four years of continuous delivery, improving operational consistency and visibility across teams.
 - **Salesforce Permission Assistant** (2023–2024): Senior contributor on an AppExchange utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.
 
@@ -43,12 +44,12 @@ Senior software developer and solutions architect with more than 20 years of exp
 ### Manager of Software Development, Bert Howe and Associates | 2007–2008
 
 - Developed in-house applications supporting litigation workflow and operations.
-- Supported existing systems and advised on technical direction.
+- Maintained and extended existing systems while advising on technical direction for litigation operations.
 
 ### Manager of Information Systems, JobElephant.com | 2006–2007
 
 - Built and maintained internal business operations software and vendor data exchanges.
-- Administered internal macOS-based infrastructure and provided employee support and training.
+- Administered internal macOS-based infrastructure and delivered employee support and training for day-to-day operations.
 
 ### Earlier Experience
 
