@@ -25,7 +25,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 - Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
 - Built and shipped business systems across multiple stacks: React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP.
 - Led architecture, DevOps, and implementation for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
-- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server.
+- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures.
 
 #### Selected Projects
 
