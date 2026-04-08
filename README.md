@@ -12,12 +12,12 @@ Senior software developer and solutions architect with more than 20 years of exp
 
 ## Core Skills
 
-- AI-assisted development: Claude Code, GitHub Copilot, Replit Agent
-- CRM and business systems: custom CRM, workflow automation, Salesforce Lightning Platform, FileMaker, OutSystems
-- Application development: JavaScript, Python, Flask, PHP, HTML, CSS, Lightning Web Components, Apex
-- Data and integration: PostgreSQL, MySQL, SOQL, JSON, XML, XSLT, REST API integrations
-- Platforms and delivery: web, macOS, Windows, iOS, FileMaker Server, Linux web servers, Heroku
-- Additional background: AppleScript, Cocoa, Objective-C++, Xojo, UI/UX design
+- AI-assisted development: [Claude Code](https://claude.ai/code), [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
+- CRM and business systems: custom CRM, workflow automation, [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/), [FileMaker](https://www.filemaker.com), [OutSystems](https://www.outsystems.com)
+- Application development: [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://www.python.org), [Flask](http://flask.pocoo.org), [PHP](https://php.net), HTML, CSS, [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm)
+- Data and integration: [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm), [JSON](https://www.json.org/json-en.html), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), REST API integrations
+- Platforms and delivery: web, macOS, Windows, iOS, FileMaker Server, Salesforce orgs, cloud environments
+- Additional background: [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Xojo](https://www.xojo.com), UI/UX design
 
 ## Experience
 

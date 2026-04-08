@@ -22,14 +22,14 @@ Open source contributions archived in the [GitHub Arctic Code Vault](https://arc
 
 ## Skills
 
-- **AI-assisted development:** Claude Code, [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
+- **AI-assisted development:** [Claude Code](https://claude.ai/code), [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
 - **Salesforce and web:** Full-stack development with [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm), HTML, CSS, and [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
-- **Low-code and business platforms:** [OutSystems](https://www.outsystems.com) / [OutSystems Developer Cloud](https://www.outsystems.com/low-code-platform/developer-cloud/), [FileMaker Pro](https://www.filemaker.com) versions 2–21 (including FileMaker Server), Salesforce Lightning Platform
+- **Low-code and business platforms:** [OutSystems](https://www.outsystems.com) / [OutSystems Developer Cloud](https://www.outsystems.com/low-code-platform/developer-cloud/), [FileMaker Pro](https://www.filemaker.com) versions 2–21 (including FileMaker Server), [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/)
 - **Python:** [Flask](http://flask.pocoo.org) for web deployment; [NumPy](https://numpy.org), [pandas](https://pandas.pydata.org), and [matplotlib](https://pypi.org/project/matplotlib/) for data work
 - **Other languages and frameworks:** [PHP](https://php.net) / [CakePHP](https://cakephp.org), [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Xojo](https://www.xojo.com)
 - **FileMaker plugins:** [ScriptMaster](https://360works.com/scriptmaster/), [BaseElements](https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin), [xmChart](https://www.x2max.com/home/), [SmartPill PHP](https://www.scodigo.com), [360Works Email](https://www.360works.com/email-plugin.html)
 - **Data and integration:** [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), [JSON](https://www.json.org/json-en.html), REST API integrations
-- **Platforms and infrastructure:** macOS, Windows, iOS, web, Linux servers, Heroku, Salesforce orgs, FileMaker Server, Docker, Kubernetes
+- **Platforms and infrastructure:** macOS, Windows, iOS, web, cloud environments, Salesforce orgs, FileMaker Server, Docker, Kubernetes
 - **Design:** UI/UX design across HTML/CSS, FileMaker, Xcode, and Xojo
 
 ## Experience
@@ -57,7 +57,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 **Ongoing responsibilities:**
 
-- Administer client servers and platforms including FileMaker Server, Salesforce orgs, Linux web servers, and Heroku
+- Administer client servers and platforms including FileMaker Server, Salesforce orgs, and cloud environments
 - Guide clients as a trusted technology consultant on technology selection, platform migration, systems design, infrastructure, and maintenance planning
 
 ### Writer / Editor, Various Publications | 2000–Present
