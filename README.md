@@ -28,7 +28,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 - Built and shipped business systems across React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP, choosing the right stack for each client's workflow and delivery constraints.
 - Led architecture, DevOps, and implementation as primary technical decision-maker for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
 - Mentored junior developers across Salesforce, FileMaker, and web projects, improving onboarding and delivery consistency across engagements.
-- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures.
+- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures and an iPad personality-assessment app used in sales-role candidate evaluation.
 
 #### Selected Projects
 
