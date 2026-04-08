@@ -62,7 +62,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 ### Writer / Editor, Various Publications | 2000–Present
 
-- Technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and Xcode 6: Start to Finish
+- Technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and [Xcode 6: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00XCF9KOW/)
 - Technical editor and contributing author (two chapters) for [The Book of FileMaker](https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816)
 - Wrote the [Roll Your Own](http://www.atpm.com/Back/roll.shtml) tutorial series for [About This Particular Macintosh](http://www.atpm.com/), using AppleScript as the student language
 - Wrote the [FileMaking](http://www.atpm.com/Back/filemaking.shtml) tutorial series for About This Particular Macintosh, using FileMaker as the student language

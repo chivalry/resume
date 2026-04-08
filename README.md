@@ -40,7 +40,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 ### Writer / Editor, Various Publications | 2000–Present
 
 - Write and edit technical content focused on FileMaker, Salesforce, AppleScript, and software development.
-- Served as technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and Xcode 6: Start to Finish, and as technical editor and contributing author (two chapters) for [The Book of FileMaker](https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816).
+- Served as technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and [Xcode 6: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00XCF9KOW/), and as technical editor and contributing author (two chapters) for [The Book of FileMaker](https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816).
 - Published tutorials, reviews, and technical articles for [Macworld Magazine](https://www.macworld.com/), [ISO FileMaker Magazine](https://www.filemakermagazine.com), and [About This Particular Macintosh](http://www.atpm.com/).
 
 ### Manager of Software Development, Bert Howe and Associates | 2007–2008
