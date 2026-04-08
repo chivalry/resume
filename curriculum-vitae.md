@@ -4,9 +4,11 @@
 
 [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/) | [Stack Overflow](https://stackoverflow.com/users/65659/chuck) | [Salesforce Trailhead](https://trailblazer.me/id/chivalry)
 
+Project evidence: [App screenshots](samples/)
+
 ## Professional Summary
 
-Senior software developer, solutions architect, and technical writer with more than 30 years of professional experience spanning IT management, custom application development, systems architecture, and technical publishing. Proprietor of Chivalry Software since 2004, delivering end-to-end software solutions across more than a dozen industries. Experienced with AI-assisted development, Salesforce Lightning Platform, FileMaker, React/Node.js, Python/Flask, OutSystems, and a broad range of supporting technologies. Active open source contributor whose work has been archived in the GitHub Arctic Code Vault and recognized as part of NASA's Mars 2020 Ingenuity Helicopter mission.
+Senior software developer, solutions architect, and technical writer with more than 30 years of professional experience spanning IT management, custom application development, systems architecture, and technical publishing. Proprietor of Chivalry Software since 2004, delivering end-to-end software solutions across more than a dozen industries and serving as a trusted technology consultant on platform, systems, and infrastructure decisions. Longtime remote consultant with globally distributed clients and extensive experience delivering complex work through distributed collaboration. Experienced with AI-assisted development, Salesforce Lightning Platform, FileMaker, React/Node.js, Python/Flask, OutSystems, and a broad range of supporting technologies. Active open source contributor whose work has been archived in the GitHub Arctic Code Vault and recognized as part of NASA's Mars 2020 Ingenuity Helicopter mission.
 
 ## GitHub Achievements
 
@@ -56,11 +58,11 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 **Ongoing responsibilities:**
 
 - Administer client servers and platforms including FileMaker Server, Salesforce orgs, Linux web servers, and Heroku
-- Guide clients on technology selection, platform migration, systems design, and maintenance planning
+- Guide clients as a trusted technology consultant on technology selection, platform migration, systems design, infrastructure, and maintenance planning
 
 ### Writer / Editor, Various Publications | 2000–Present
 
-- Technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8)
+- Technical editor for [Xcode 5: Start to Finish](https://www.amazon.com/Xcode-Start-Finish-Development-Developers-ebook/dp/B00K3NR6N8) and Xcode 6: Start to Finish
 - Technical editor and contributing author (two chapters) for [The Book of FileMaker](https://www.amazon.com/Book-FileMaker-One-Stop-Unlimited-Developer/dp/1886411816)
 - Wrote the [Roll Your Own](http://www.atpm.com/Back/roll.shtml) tutorial series for [About This Particular Macintosh](http://www.atpm.com/), using AppleScript as the student language
 - Wrote the [FileMaking](http://www.atpm.com/Back/filemaking.shtml) tutorial series for About This Particular Macintosh, using FileMaker as the student language
@@ -90,15 +92,23 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Senior developer on internal and client-facing technology projects
 
-### Manager of Information Systems / Database Analyst, Direct Partners | 1996–1999
+### On-Site Service Technician, MacEnthusiasts | 1996–1998
 
-- Managed information systems and database infrastructure for a direct marketing firm
+- Delivered on-site technical service including hardware and software setup, network installation, troubleshooting, and database-related client support
+
+### Manager of Information Systems / Database Analyst, Direct Partners | 1995–1996
+
+- Managed information systems and database infrastructure for a direct marketing firm, supporting 20 Macintosh users
 - Analyzed and maintained marketing and contact databases supporting direct mail and advertising campaigns
 
-### Manager of Information Technologies, Grey Advertising | 1993–1996
+### Proprietor, Chivalry Technical Consulting | 1998–2000
 
-- Managed all internal information technology infrastructure for an advertising agency
-- Supported staff computing needs and advised on technology investments
+- Provided technology consulting, database development, networking, systems configuration, training, and web-related services for small businesses across health care, energy, advertising, printing, manufacturing, and restaurant industries
+
+### Manager of Information Technologies, Grey Advertising | 1993–1995
+
+- Managed internal information technology infrastructure for an advertising agency's Los Angeles office and supported some San Francisco operations, serving 200 cross-platform users
+- Oversaw the office-wide migration from LocalTalk to Ethernet and implemented the agency's first shared Internet connection via fractional T1 service
 
 ## Industries Served
 

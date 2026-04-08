@@ -4,9 +4,11 @@ San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.
 
 *Also available: [Full Curriculum Vitae](curriculum-vitae.md)*
 
+*Project evidence: [App screenshots](samples/)*
+
 ## Professional Summary
 
-Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a Salesforce business operations platform. Owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
+Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a Salesforce business operations platform. Builds software that improves access to accurate data, shifts repetitive work into automation, and owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
 
 ## Core Skills
 
@@ -21,7 +23,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 
 ### Developer & Proprietor, Chivalry Software | 2004–Present
 
-- Delivered custom CRM, operations, and workflow applications for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
+- Delivered custom CRM, operations, and workflow applications that improved access to accurate data and shifted repetitive work into automation for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
 - Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
 - Built and shipped business systems across React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP, choosing the right stack for each client's workflow and delivery constraints.
 - Led architecture, DevOps, and implementation as primary technical decision-maker for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
