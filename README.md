@@ -2,6 +2,8 @@
 
 San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/) | [Stack Overflow](https://stackoverflow.com/users/65659/chuck) | [Salesforce Trailhead](https://trailblazer.me/id/chivalry)
 
+*Also available: [Full Curriculum Vitae](curriculum-vitae.md)*
+
 ## Professional Summary
 
 Senior software developer and solution architect with more than 20 years of experience building custom CRM, workflow automation, and line-of-business applications for specialized business teams. Recent work includes AI-assisted development of a custom CRM for a mortgage broker using Claude Code, alongside projects delivered with Salesforce, OutSystems, FileMaker, Python, and modern web stacks. Comfortable owning architecture, implementation, deployment, integration, and client-facing technical communication for either contract or permanent roles.
