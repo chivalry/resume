@@ -2,12 +2,10 @@
 
 San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/) | [Stack Overflow](https://stackoverflow.com/users/65659/chuck) | [Salesforce Trailhead](https://trailblazer.me/id/chivalry)
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Professional Summary
 
 Senior software developer and solution architect with more than 20 years of experience building custom CRM, workflow automation, and line-of-business applications for specialized business teams. Recent work includes AI-assisted development of a custom CRM for a mortgage broker using Claude Code, alongside projects delivered with Salesforce, OutSystems, FileMaker, Python, and modern web stacks. Comfortable owning architecture, implementation, deployment, integration, and client-facing technical communication for either contract or permanent roles.
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Core Skills
 
 - AI-assisted development: Claude Code, GitHub Copilot, Replit Agent
@@ -17,7 +15,6 @@ Senior software developer and solution architect with more than 20 years of expe
 - Platforms and delivery: web, macOS, Windows, iOS, FileMaker Server, Linux web servers, Heroku
 - Additional background: AppleScript, Cocoa, Objective-C++, Xojo, UI/UX design
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Experience
 
 ### Developer & Proprietor, Chivalry Software | 2004-Present
@@ -28,6 +25,13 @@ Senior software developer and solution architect with more than 20 years of expe
 - Served as lead developer, DevOps owner, and application architect for Salesforce-based CRM work, including an AppExchange administrator utility for managing complex permission sets.
 - Delivered internal tools spanning recruiting, employee assessment, support ticketing, surveys, inventory, project tracking, invoicing, accounting conversion, and field incident reporting.
 - Guide platform selection, systems design, deployment, and ongoing maintenance for client environments, including FileMaker Server, Salesforce orgs, Linux web servers, and Heroku.
+
+#### Selected Projects
+
+- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered loan pipeline management, document collection, client communication tracking, and reporting using React, Node.js, and PostgreSQL. Used AI-assisted development with Claude Code and Replit Agent throughout the engagement.
+- **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform used across HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client-facing technical communication across four years of continuous delivery.
+- **Salesforce Permission Assistant** (2023–2024): Senior contributor on an AppExchange utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
+- **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.
 
 ### Writer / Editor, Various Publications | 2000-Present
 
@@ -52,7 +56,6 @@ Senior software developer and solution architect with more than 20 years of expe
 - Manager of Information Systems / Database Analyst, Direct Partners | 1996-1999
 - Manager of Information Technologies, Grey Advertising | 1993-1996
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Open Source and Community
 
 - Created [lwc-popover-window](https://github.com/tythonco/lwc-popover-window), [structured-flask](https://github.com/chivalry/structured-flask), [alexandria](https://github.com/chivalry/alexandria), and [filemaker.vim](https://github.com/chivalry/filemaker.vim).
@@ -60,7 +63,6 @@ Senior software developer and solution architect with more than 20 years of expe
 - Mentor on Python and JavaScript tracks at [Exercism](https://exercism.org/).
 - Top 10% [Stack Overflow](https://stackoverflow.com/users/65659/chuck) user and longtime moderator on [FMForums](https://fmforums.com/).
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Education and Certifications
 
 - University of California, Los Angeles | Mathematics with Specialization in Computing
