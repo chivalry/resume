@@ -92,6 +92,10 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Senior developer on internal and client-facing technology projects
 
+### Proprietor, Chivalry Technical Consulting | 1998–2000
+
+- Provided technology consulting, database development, networking, systems configuration, training, and web-related services for small businesses across health care, energy, advertising, printing, manufacturing, and restaurant industries
+
 ### On-Site Service Technician, MacEnthusiasts | 1996–1998
 
 - Delivered on-site technical service including hardware and software setup, network installation, troubleshooting, and database-related client support
@@ -100,10 +104,6 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Managed information systems and database infrastructure for a direct marketing firm, supporting 20 Macintosh users
 - Analyzed and maintained marketing and contact databases supporting direct mail and advertising campaigns
-
-### Proprietor, Chivalry Technical Consulting | 1998–2000
-
-- Provided technology consulting, database development, networking, systems configuration, training, and web-related services for small businesses across health care, energy, advertising, printing, manufacturing, and restaurant industries
 
 ### Manager of Information Technologies, Grey Advertising | 1993–1995
 
