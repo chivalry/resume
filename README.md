@@ -2,7 +2,7 @@
 
 San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/)
 
-*Also available: [Full Curriculum Vitae](curriculum-vitae.md) | Project evidence: [App screenshots with context](samples/README.md)*
+*[Full Curriculum Vitae](curriculum-vitae.md) | [App screenshots with context](samples/README.md)*
 
 ## Professional Summary
 
