@@ -8,7 +8,7 @@ Project evidence: [App screenshots](samples/)
 
 ## Professional Summary
 
-Senior software developer, solutions architect, and technical writer with more than 30 years of professional experience spanning IT management, custom application development, systems architecture, and technical publishing. Proprietor of Chivalry Software since 2004, delivering end-to-end software solutions across more than a dozen industries and serving as a trusted technology consultant on platform, systems, and infrastructure decisions. Longtime remote consultant with globally distributed clients and extensive experience delivering complex work through distributed collaboration. Experienced with AI-assisted development, Salesforce Lightning Platform, FileMaker, React/Node.js, Python/Flask, OutSystems, and a broad range of supporting technologies. Active open source contributor whose work has been archived in the GitHub Arctic Code Vault and recognized as part of NASA's Mars 2020 Ingenuity Helicopter mission.
+Senior software developer, solutions architect, and technical writer with more than 30 years of professional experience spanning IT management, custom application development, systems architecture, and technical publishing. Proprietor of Chivalry Software since 2004, delivering end-to-end software solutions across more than a dozen industries and serving as a trusted technology consultant on platform, systems, and infrastructure decisions. Longtime remote consultant with globally distributed clients and extensive experience delivering complex work through distributed collaboration. Experienced with AI-assisted development, [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/), [FileMaker](https://www.filemaker.com), [React](https://react.dev/)/[Node.js](https://nodejs.org/), [Python](https://www.python.org)/[Flask](http://flask.pocoo.org), [OutSystems](https://www.outsystems.com), and a broad range of supporting technologies. Active open source contributor whose work has been archived in the GitHub Arctic Code Vault and recognized as part of NASA's Mars 2020 Ingenuity Helicopter mission.
 
 ## GitHub Achievements
 
@@ -23,13 +23,13 @@ Open source contributions archived in the [GitHub Arctic Code Vault](https://arc
 ## Skills
 
 - **AI-assisted development:** [Claude Code](https://claude.ai/code), [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
-- **Salesforce and web:** Full-stack development with [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm), HTML, CSS, and [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
-- **Low-code and business platforms:** [OutSystems](https://www.outsystems.com) / [OutSystems Developer Cloud](https://www.outsystems.com/low-code-platform/developer-cloud/), [FileMaker Pro](https://www.filemaker.com) versions 2–21 (including FileMaker Server), [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/)
+- **Salesforce and web:** Full-stack development with [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
+- **Low-code and business platforms:** [OutSystems](https://www.outsystems.com) / [OutSystems Developer Cloud](https://www.outsystems.com/low-code-platform/developer-cloud/), [FileMaker Pro](https://www.filemaker.com) versions 2–21 (including [FileMaker Server](https://www.claris.com/filemaker/filemaker-server/)), [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/)
 - **Python:** [Flask](http://flask.pocoo.org) for web deployment; [NumPy](https://numpy.org), [pandas](https://pandas.pydata.org), and [matplotlib](https://pypi.org/project/matplotlib/) for data work
 - **Other languages and frameworks:** [PHP](https://php.net) / [CakePHP](https://cakephp.org), [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Xojo](https://www.xojo.com)
 - **FileMaker plugins:** [ScriptMaster](https://360works.com/scriptmaster/), [BaseElements](https://baseelementsplugin.zendesk.com/hc/en-us/articles/115002990887-About-the-BaseElements-Plugin), [xmChart](https://www.x2max.com/home/), [SmartPill PHP](https://www.scodigo.com), [360Works Email](https://www.360works.com/email-plugin.html)
-- **Data and integration:** [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), [JSON](https://www.json.org/json-en.html), REST API integrations
-- **Platforms and infrastructure:** macOS, Windows, iOS, web, cloud environments, Salesforce orgs, FileMaker Server, Docker, Kubernetes
+- **Data and integration:** [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), [JSON](https://www.json.org/json-en.html), [REST API](https://developer.mozilla.org/en-US/docs/Glossary/REST) integrations
+- **Platforms and infrastructure:** [macOS](https://www.apple.com/macos/), [Windows](https://www.microsoft.com/windows), [iOS](https://www.apple.com/ios/), web, cloud environments, Salesforce orgs, [FileMaker Server](https://www.claris.com/filemaker/filemaker-server/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
 - **Design:** UI/UX design across HTML/CSS, FileMaker, Xcode, and Xojo
 
 ## Experience
@@ -42,7 +42,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Senior developer on a full-stack mortgage brokerage CRM built from scratch using React, Node.js, and PostgreSQL; used AI-assisted development with Claude Code and Replit Agent throughout to accelerate delivery (2025–2026)
 - Lead developer, DevOps manager, and application architect for a four-year Salesforce Lightning Platform engagement spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting (2021–2025)
-- Senior contributor on an AppExchange administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
+- Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
 - Senior contributor on a custom CRM built on OutSystems Developer Cloud for a mortgage brokerage
 - Internal FileMaker module library for a FileMaker consultancy, used across multiple client projects
 - Gamified iPhone training app for salespeople to confirm training level while competing for points
@@ -50,8 +50,8 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 - Employee candidate tracking app for macOS with integrated automated texting during the hiring process
 - Accident and incident tracking iPad app for an amusement park
 - Web-based survey app with administrative interface for customizing questions and retrieving results
-- Internal support ticket app for iOS with desktop administrative console and Slack new-ticket notifications
-- File conversion app for an accounting department translating POS sales data into QuickBooks format
+- Internal support ticket app for iOS with desktop administrative console and [Slack](https://slack.com/) new-ticket notifications
+- File conversion app for an accounting department translating POS sales data into [QuickBooks](https://quickbooks.intuit.com/) format
 - Project tracker and electronic invoice submission app using REST API for a movie poster design agency
 - Inventory tracking apps for businesses in education materials and manufactured goods
 

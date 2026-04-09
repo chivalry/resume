@@ -6,15 +6,15 @@ San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.
 
 ## Professional Summary
 
-Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a Salesforce business operations platform. Builds software that improves access to accurate data, shifts repetitive work into automation, and owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
+Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a [Salesforce](https://www.salesforce.com/products/platform/overview/) business operations platform. Builds software that improves access to accurate data, shifts repetitive work into automation, and owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
 
 ## Core Skills
 
 - AI-assisted development: [Claude Code](https://claude.ai/code), [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
 - CRM and business systems: custom CRM, workflow automation, [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/), [FileMaker](https://www.filemaker.com), [OutSystems](https://www.outsystems.com)
-- Application development: [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://www.python.org), [Flask](http://flask.pocoo.org), [PHP](https://php.net), HTML, CSS, [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm)
-- Data and integration: [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm), [JSON](https://www.json.org/json-en.html), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), REST API integrations
-- Platforms and delivery: web, macOS, Windows, iOS, FileMaker Server, Salesforce orgs, cloud environments
+- Application development: [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://www.python.org), [Flask](http://flask.pocoo.org), [PHP](https://php.net), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm)
+- Data and integration: [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm), [JSON](https://www.json.org/json-en.html), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), [REST API](https://developer.mozilla.org/en-US/docs/Glossary/REST) integrations
+- Platforms and delivery: web, [macOS](https://www.apple.com/macos/), [Windows](https://www.microsoft.com/windows), [iOS](https://www.apple.com/ios/), [FileMaker Server](https://www.claris.com/filemaker/filemaker-server/), Salesforce orgs, cloud environments
 - Additional background: [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Xojo](https://www.xojo.com), UI/UX design
 
 ## Experience
@@ -23,7 +23,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 
 - Delivered custom CRM, operations, and workflow applications that improved access to accurate data and shifted repetitive work into automation for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
 - Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
-- Built and shipped business systems across React, Node.js, PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and CakePHP, choosing the right stack for each client's workflow and delivery constraints.
+- Built and shipped business systems across [React](https://react.dev/), [Node.js](https://nodejs.org/), PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and [CakePHP](https://cakephp.org/), choosing the right stack for each client's workflow and delivery constraints.
 - Led architecture, DevOps, and implementation as primary technical decision-maker for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
 - Mentored junior developers across Salesforce, FileMaker, and web projects, improving onboarding and delivery consistency across engagements.
 - Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures and an iPad personality-assessment app used in sales-role candidate evaluation.
@@ -32,7 +32,7 @@ Senior software developer and solutions architect with more than 20 years of exp
 
 - **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered pipeline, document, communication, and reporting workflows that streamlined day-to-day loan operations. Stack: React, Node.js, PostgreSQL; AI-assisted development with Claude Code and Replit Agent.
 - **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client communication across four years of continuous delivery, improving operational consistency and visibility across teams.
-- **Salesforce Permission Assistant** (2023–2024): Senior contributor on an AppExchange utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
+- **Salesforce Permission Assistant** (2023–2024): Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.
 
 ### Writer / Editor, Various Publications | 2000–Present
@@ -70,4 +70,4 @@ Senior software developer and solutions architect with more than 20 years of exp
 - University of California, Los Angeles | Mathematics with Specialization in Computing
 - Certified FileMaker Developer
 - Salesforce Superbadges: Apex Specialist, Lightning Experience Specialist, Security Specialist, App Customization Specialist
-- Additional training: Python, JavaScript, Responsive Web Design, Bash shell scripting, Docker and Kubernetes
+- Additional training: Python, JavaScript, Responsive Web Design, [Bash](https://www.gnu.org/software/bash/) shell scripting, [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)
