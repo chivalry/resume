@@ -33,7 +33,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 
 #### Selected Projects
 
-- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered pipeline, document, communication, and reporting workflows that streamlined day-to-day loan operations. Stack: React, Node.js, PostgreSQL; AI-assisted development with Claude Code and Replit Agent.
+- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered pipeline, document, communication, and reporting workflows that streamlined day-to-day loan operations. Stack: React, TypeScript, Node.js, PostgreSQL; AI-assisted development with Claude Code and Replit Agent.
 - **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client communication across four years of continuous delivery, improving operational consistency and visibility across teams.
 - **Salesforce Permission Assistant** (2023–2024): Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.

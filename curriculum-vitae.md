@@ -40,7 +40,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 **Selected engagements:**
 
-- Senior developer on a full-stack mortgage brokerage CRM built from scratch using React, Node.js, and PostgreSQL; used AI-assisted development with Claude Code and Replit Agent throughout to accelerate delivery (2025–2026)
+- Senior developer on a full-stack mortgage brokerage CRM built from scratch using React, TypeScript, Node.js, and PostgreSQL; used AI-assisted development with Claude Code and Replit Agent throughout to accelerate delivery (2025–2026)
 - Lead developer, DevOps manager, and application architect for a four-year Salesforce Lightning Platform engagement spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting (2021–2025)
 - Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
 - Senior contributor on a custom CRM built on OutSystems Developer Cloud for a mortgage brokerage
