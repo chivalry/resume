@@ -23,7 +23,7 @@ Open source contributions archived in the [GitHub Arctic Code Vault](https://arc
 ## Skills
 
 - **AI-assisted development:** [Claude Code](https://claude.ai/code), [GitHub Copilot](https://github.com/features/copilot), [Replit Agent](https://replit.com/ai)
-- **Salesforce and web:** Full-stack development with [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
+- **Salesforce and web:** Full-stack development with [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm)/[Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm)
 - **Low-code and business platforms:** [OutSystems](https://www.outsystems.com) / [OutSystems Developer Cloud](https://www.outsystems.com/low-code-platform/developer-cloud/), [FileMaker Pro](https://www.filemaker.com) versions 2–21 (including [FileMaker Server](https://www.claris.com/filemaker/filemaker-server/)), [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/)
 - **Python:** [Flask](http://flask.pocoo.org) for web deployment; [NumPy](https://numpy.org), [pandas](https://pandas.pydata.org), and [matplotlib](https://pypi.org/project/matplotlib/) for data work
 - **Other languages and frameworks:** [PHP](https://php.net) / [CakePHP](https://cakephp.org), [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Xojo](https://www.xojo.com)
@@ -133,7 +133,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 ## Certifications
 
 - Certified FileMaker Developer
-- [Salesforce Superbadges](https://trailblazer.me/id/chivalry): Apex Specialist, Lightning Experience Specialist, Security Specialist, App Customization Specialist — February–March 2021
+- [Salesforce Superbadges](https://trailblazer.me/id/chivalry): Apex Specialist (Apex/Java), Lightning Experience Specialist, Security Specialist, App Customization Specialist — February–March 2021
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures-v8) — October 2025
 - [Docker and Kubernetes](https://www.udemy.com/certificate/UC-297cb03f-3165-4379-b98e-83e4bd11ecaa/) — June 2024
 - [GitHub Ultimate: Master Git and GitHub — Beginner to Expert](https://www.udemy.com/certificate/UC-cd928d7f-b5b9-462e-a72f-1075c2e33f56/) — June 2021
