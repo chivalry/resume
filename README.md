@@ -6,7 +6,15 @@ San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.
 
 ## Professional Summary
 
-Senior software developer and solutions architect with more than 20 years of experience delivering custom CRM, workflow automation, and line-of-business applications across a wide range of industries and platforms. Recent work includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four years of architecture ownership on a [Salesforce](https://www.salesforce.com/products/platform/overview/) business operations platform. Builds software that improves access to accurate data, shifts repetitive work into automation, and owns architecture, implementation, DevOps, and client-facing technical communication end-to-end.
+Senior software developer and solutions architect with more than 30 years of
+experience delivering custom CRM, workflow automation, and line-of-business
+applications across a wide range of industries and platforms. Recent work
+includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four
+years of architecture ownership on a
+[Salesforce](https://www.salesforce.com/products/platform/overview/)
+business operations platform. Builds software that improves access to accurate
+data, shifts repetitive work into automation, and owns architecture,
+implementation, DevOps, and client-facing technical communication end-to-end.
 Known for ramping quickly on unfamiliar technologies when project needs demand it and turning that ramp-up into production delivery.
 
 ## Core Skills
@@ -20,14 +28,22 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 
 ## Experience
 
-### Developer & Proprietor, Chivalry Software | 2004–Present
+### Principal Developer & Consultant, Chivalry Software | 2004–Present
 
-- Delivered custom CRM, operations, and workflow applications that improved access to accurate data and shifted repetitive work into automation for clients across mortgage brokerage, legal, publishing, education, retail, entertainment, and manufacturing.
+- Operated Chivalry Software as a boutique consultancy, serving as principal
+  developer and technical director on multi-year client engagements — with the
+  scope, responsibility, and delivery accountability of a senior individual
+  contributor or technical lead at a product company.
+- Delivered custom CRM, operations, and workflow applications that improved
+  access to accurate data and shifted repetitive work into automation for
+  clients across mortgage brokerage, legal, publishing, education, retail,
+  entertainment, and manufacturing.
 - Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
 - Built and shipped business systems across [React](https://react.dev/), [Node.js](https://nodejs.org/), PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and [CakePHP](https://cakephp.org/), choosing the right stack for each client's workflow and delivery constraints.
 - Learned [PHP](https://php.net) over a weekend to deliver a client web project on schedule, and reached productive delivery on [OutSystems](https://www.outsystems.com) within a week of first exposure.
-- Applied the same rapid ramp-up approach to AI-assisted development, using Claude Code and Replit Agent to accelerate delivery on a production mortgage CRM.
-- Led architecture, DevOps, and implementation as primary technical decision-maker for a four-year Salesforce platform engagement spanning HR, recruiting, support, project tracking, surveys, and field incident reporting.
+- Led architecture, DevOps, and implementation as primary technical
+  decision-maker for a four-year Salesforce platform engagement spanning HR,
+  recruiting, support, project tracking, surveys, and field incident reporting.
 - Mentored junior developers across Salesforce, FileMaker, and web projects, improving onboarding and delivery consistency across engagements.
 - Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures and an iPad personality-assessment app used in sales-role candidate evaluation.
 
@@ -64,7 +80,14 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 ## Open Source and Community
 
 - Created [lwc-popover-window](https://github.com/tythonco/lwc-popover-window), [structured-flask](https://github.com/chivalry/structured-flask), [alexandria](https://github.com/chivalry/alexandria), and [filemaker.vim](https://github.com/chivalry/filemaker.vim).
-- Maintained or contributed to [FMEasyAudit](https://github.com/chivalry/FMEasyAudit), [Flask](https://palletsprojects.com/p/flask/), [Werkzeug](https://werkzeug.palletsprojects.com/), [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io/en/latest/), [Flask-Dotenv](https://github.com/grauwoelfchen/flask-dotenv/), [Vim](https://www.vim.org), [SimpleImage](https://github.com/claviska/SimpleImage), and [UltiSnips](https://github.com/SirVer/ultisnips).
+- Maintained or contributed to [Vim](https://www.vim.org),
+  [Flask](https://palletsprojects.com/p/flask/),
+  [Werkzeug](https://werkzeug.palletsprojects.com/),
+  [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io/en/latest/),
+  [Flask-Dotenv](https://github.com/grauwoelfchen/flask-dotenv/),
+  [SimpleImage](https://github.com/claviska/SimpleImage),
+  [UltiSnips](https://github.com/SirVer/ultisnips), and
+  [FMEasyAudit](https://github.com/chivalry/FMEasyAudit).
 - Mentor on Python and JavaScript tracks at [Exercism](https://exercism.org/).
 - Top 10% [Stack Overflow](https://stackoverflow.com/users/65659/chuck) user and longtime moderator on [FMForums](https://fmforums.com/).
 
