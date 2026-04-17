@@ -44,7 +44,13 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 - Led architecture, DevOps, and implementation as primary technical
   decision-maker for a four-year Salesforce platform engagement spanning HR,
   recruiting, support, project tracking, surveys, and field incident reporting.
-- Mentored junior developers across Salesforce, FileMaker, and web projects, improving onboarding and delivery consistency across engagements.
+- Mentored junior developers across Salesforce, FileMaker, and web
+  projects, improving onboarding and delivery consistency across
+  engagements.
+- Conducted GitHub pull request code reviews for both junior developers
+  and peers over six-plus years, across Salesforce (Apex, LWC),
+  React, TypeScript, and Node.js — evaluating correctness, code
+  quality, and design consistency.
 - Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures and an iPad personality-assessment app used in sales-role candidate evaluation.
 
 #### Selected Projects
