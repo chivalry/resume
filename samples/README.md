@@ -32,4 +32,12 @@ HR personality assessment tool used to evaluate role fit for sales positions acr
 
   <img src="assessments-ipad-assessment.png" alt="Assessments iPad assessment UX" width="420">
 
+## Brokerage CRM
+
+Custom modules built for an actively operating mortgage brokerage running a full-stack React/Node.js CRM.
+
+- [Community chat feed](brokerage-community-chat.png): employee-wide recognition and announcements channel with reactions and threaded replies.
+
+  <img src="brokerage-community-chat.png" alt="Community chat feed" width="420">
+
 <!-- markdownlint-enable MD033 -->
