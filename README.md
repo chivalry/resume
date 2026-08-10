@@ -2,15 +2,15 @@
 
 San Jacinto, California | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com) | [GitHub](https://github.com/chivalry) | [LinkedIn](https://www.linkedin.com/in/chivalry/)
 
-*[Full Curriculum Vitae](curriculum-vitae.md) | [App screenshots with context](samples/README.md)*
+*[Full Curriculum Vitae](curriculum-vitae.md) | [App screenshots with context](../samples/README.md)*
 
 ## Professional Summary
 
 Senior software developer and solutions architect with more than 30 years of
 experience delivering custom CRM, workflow automation, and line-of-business
 applications across a wide range of industries and platforms. Recent work
-includes AI-assisted delivery of a full-stack mortgage brokerage CRM and four
-years of architecture ownership on a
+includes AI-assisted delivery of a full-stack ranch operations platform and a
+mortgage brokerage CRM, plus four years of architecture ownership on a
 [Salesforce](https://www.salesforce.com/products/platform/overview/)
 business operations platform. Builds software that improves access to accurate
 data, shifts repetitive work into automation, and owns architecture,
@@ -38,7 +38,10 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   access to accurate data and shifted repetitive work into automation for
   clients across mortgage brokerage, legal, publishing, education, retail,
   entertainment, and manufacturing.
-- Most recently served as senior developer on a full-stack mortgage brokerage CRM, using AI-assisted development with Claude Code and Replit Agent to deliver pipeline management, document workflows, and reporting.
+- Most recently sole developer on a full-stack ranch operations platform,
+  owning the data model, REST API, React front end, CI pipeline, and
+  production deployment; before that, senior developer on a mortgage
+  brokerage CRM delivered with AI-assisted development.
 - Built and shipped business systems across [React](https://react.dev/), [Node.js](https://nodejs.org/), PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and [CakePHP](https://cakephp.org/), choosing the right stack for each client's workflow and delivery constraints.
 - Learned [PHP](https://php.net) over a weekend to deliver a client web project on schedule, and reached productive delivery on [OutSystems](https://www.outsystems.com) within a week of first exposure.
 - Led architecture, DevOps, and implementation as primary technical
@@ -55,7 +58,23 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 
 #### Selected Projects
 
-- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a full-stack custom CRM built from scratch for a live mortgage brokerage. Delivered pipeline, document, communication, and reporting workflows that streamlined day-to-day loan operations. Stack: React, TypeScript, Node.js, PostgreSQL; AI-assisted development with Claude Code and Replit Agent.
+- **Ranch Operations Platform** (2026): Sole developer on a full-stack
+  operations platform for a working cattle ranch, covering livestock
+  records, infrastructure, inventory, purchasing, and recurring task
+  scheduling. Delivered 31 REST API modules and 56 data models in roughly
+  nine weeks, with 233 automated test files behind a CI gate that fails
+  below 100% coverage on both backend and frontend. Provisioned and
+  operated the production environment as well — server setup, TLS, a
+  separate staging deployment, and nightly off-site backups with a
+  rehearsed restore drill. Stack: Python, Flask, SQLAlchemy, Celery,
+  Redis, PostgreSQL, Docker; React, TypeScript, Vite; AI-assisted
+  development with Claude Code and Codex.
+- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a
+  full-stack custom CRM built from scratch for a live mortgage
+  brokerage. Delivered pipeline, document, communication, and
+  reporting workflows that streamlined day-to-day loan operations.
+  Stack: React, TypeScript, Node.js, PostgreSQL, Drizzle ORM;
+  AI-assisted development with Claude Code and Replit Agent.
 - **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client communication across four years of continuous delivery, improving operational consistency and visibility across teams.
 - **Salesforce Permission Assistant** (2023–2024): Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.

@@ -40,6 +40,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 **Selected engagements:**
 
+- Sole developer on a full-stack ranch operations platform covering livestock records, infrastructure, inventory, purchasing, and recurring task scheduling; built with Python, Flask, SQLAlchemy, and PostgreSQL behind a React and TypeScript front end, with 100% test coverage enforced in CI and production infrastructure, staging, and backups owned end to end (2026)
 - Senior developer on a full-stack mortgage brokerage CRM built from scratch using React, TypeScript, Node.js, and PostgreSQL; used AI-assisted development with Claude Code and Replit Agent throughout to accelerate delivery (2025–2026)
 - Lead developer, DevOps manager, and application architect for a four-year Salesforce Lightning Platform engagement spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting (2021–2025)
 - Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
@@ -114,6 +115,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Academia
 - Accounting
+- Agriculture
 - Amusement Park
 - Education
 - Entertainment
