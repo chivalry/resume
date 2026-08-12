@@ -118,7 +118,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 
 ## Education and Certifications
 
-- University of California, Los Angeles | Mathematics with Specialization in Computing
+- University of California, Los Angeles | Bachelor of Science in Mathematics with a Specialization in Computing
 - Certified FileMaker Developer
 - Salesforce Superbadges: Apex Specialist (Apex/Java), Lightning Experience Specialist, Security Specialist, App Customization Specialist
 - Additional training: Python, JavaScript, Responsive Web Design, [Bash](https://www.gnu.org/software/bash/) shell scripting, [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)

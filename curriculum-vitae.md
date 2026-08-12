@@ -130,7 +130,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 ## Education
 
-[University of California, Los Angeles](https://www.ucla.edu) — Mathematics with Specialization in Computing
+[University of California, Los Angeles](https://www.ucla.edu) — Bachelor of Science in Mathematics with a Specialization in Computing
 
 ## Certifications
 
