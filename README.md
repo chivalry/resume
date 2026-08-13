@@ -10,9 +10,10 @@ Senior software developer and solutions architect with more than 30 years of
 experience delivering custom CRM, workflow automation, and line-of-business
 applications across a wide range of industries and platforms. Recent work
 includes AI-assisted delivery of a full-stack ranch operations platform and a
-mortgage brokerage CRM, plus four years of architecture ownership on a
+mortgage brokerage CRM, plus multi-year architecture ownership on a
 [Salesforce](https://www.salesforce.com/products/platform/overview/)
-business operations platform. Builds software that improves access to accurate
+platform that replaced a failing legacy system for a company of several
+hundred users. Builds software that improves access to accurate
 data, shifts repetitive work into automation, and owns architecture,
 implementation, DevOps, and client-facing technical communication end-to-end.
 Known for ramping quickly on unfamiliar technologies when project needs demand it and turning that ramp-up into production delivery.
@@ -44,9 +45,9 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   brokerage CRM delivered with AI-assisted development.
 - Built and shipped business systems across [React](https://react.dev/), [Node.js](https://nodejs.org/), PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and [CakePHP](https://cakephp.org/), choosing the right stack for each client's workflow and delivery constraints.
 - Learned [PHP](https://php.net) over a weekend to deliver a client web project on schedule, and reached productive delivery on [OutSystems](https://www.outsystems.com) within a week of first exposure.
-- Led architecture, DevOps, and implementation as primary technical
-  decision-maker for a four-year Salesforce platform engagement spanning HR,
-  recruiting, support, project tracking, surveys, and field incident reporting.
+- Led a team of eight developers as primary technical decision-maker on a
+  multi-year Salesforce platform engagement, owning architecture, DevOps, and
+  implementation across six functional areas.
 - Mentored junior developers across Salesforce, FileMaker, and web
   projects, improving onboarding and delivery consistency across
   engagements.
@@ -75,7 +76,14 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   reporting workflows that streamlined day-to-day loan operations.
   Stack: React, TypeScript, Node.js, PostgreSQL, Drizzle ORM;
   AI-assisted development with Claude Code and Replit Agent.
-- **Business Operations Platform** (2021–2025): Lead developer and architect for a multi-module Salesforce-based platform spanning HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. Owned architecture, DevOps, data model, and client communication across four years of continuous delivery, improving operational consistency and visibility across teams.
+- **Business Operations Platform** (2021–present): Lead developer and
+  architect on the migration of a 200-plus-user company off a decades-old,
+  unmaintainable FileMaker system onto Salesforce — millions of records moved,
+  then expanded across six functional areas: HR, recruiting, project tracking,
+  surveys, support ticketing, and field incident reporting. Led a team of eight
+  developers through the first two years. The platform carried the client's
+  growth as headcount rose by roughly half. Owned architecture, DevOps, data
+  model, and client communication throughout.
 - **Salesforce Permission Assistant** (2023–2024): Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) utility that simplified management of complex Salesforce permission sets for enterprise-scale orgs.
 - **lwc-popover-window** (2023–2024, open source): Authored a reusable Lightning Web Component enabling popover windows in Salesforce Lightning Experience. Published as open source and documented in a technical article.
 
