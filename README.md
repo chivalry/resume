@@ -68,8 +68,9 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   operated the production environment as well — server setup, TLS, a
   separate staging deployment, and nightly off-site backups with a
   rehearsed restore drill. Stack: Python, Flask, SQLAlchemy, Celery,
-  Redis, PostgreSQL, Docker; React, TypeScript, Vite; AI-assisted
-  development with Claude Code and Codex.
+  Redis, PostgreSQL, Docker; React, TypeScript, Vite. Every line of
+  code was written by coding agents (Claude Code and Codex) and
+  reviewed before merge.
 - **Mortgage Brokerage CRM** (2025–2026): Senior developer on a
   full-stack custom CRM built from scratch for a live mortgage
   brokerage. Delivered pipeline, document, communication, and
