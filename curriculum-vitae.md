@@ -45,6 +45,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 - Lead developer, DevOps manager, and application architect on the migration of a 200-plus-user company off a decades-old, unmaintainable FileMaker system onto the [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/) — millions of records migrated, then expanded across six functional areas: HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. The platform carried the client's growth as headcount rose by roughly half (2021–present; team lead over eight developers, 2021–2023)
 - Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
 - Senior contributor on a custom CRM built on OutSystems Developer Cloud for a mortgage brokerage
+- Statistical modeling in Python with [pandas](https://pandas.pydata.org) and [NumPy](https://numpy.org) for a multi-location wireless retailer: regression and trend fitting over historical data to predict future prices, running in production and recalculating as new data arrived (2019); statistical analysis of survey results for a separate client
 - Internal FileMaker module library for a FileMaker consultancy, used across multiple client projects
 - Gamified iPhone training app for salespeople to confirm training level while competing for points
 - Employee candidate assessment app for iPad administering personality tests for HR evaluation
