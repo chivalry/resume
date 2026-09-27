@@ -26,6 +26,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 - Statistical modeling: regression and trend fitting with [pandas](https://pandas.pydata.org) and [NumPy](https://numpy.org) in production to predict future prices for a multi-location wireless retailer (2019); statistical analysis of survey results for a separate client
 - Data and integration: [PostgreSQL](https://www.postgresql.org), [MySQL](https://www.mysql.com), [SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm), [JSON](https://www.json.org/json-en.html), [XML](https://www.w3.org/TR/REC-xml/), [XSLT](https://www.w3.org/standards/xml/transformation), [REST API](https://developer.mozilla.org/en-US/docs/Glossary/REST) integrations
 - Platforms and delivery: web, [macOS](https://www.apple.com/macos/), [Windows](https://www.microsoft.com/windows), [iOS](https://www.apple.com/ios/), [FileMaker Server](https://www.claris.com/filemaker/filemaker-server/), Salesforce orgs, cloud environments
+- Engineering practice: software design patterns, pull request code review, [Git](https://git-scm.com) version control, multi-file refactoring, automated testing behind CI
 - Additional background: [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html), [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)), [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++), [Xojo](https://www.xojo.com), UI/UX design
 
 ## Experience
@@ -33,7 +34,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
 ### Principal Developer & Consultant, Chivalry Software | 2004–Present
 
 - Operated Chivalry Software as a boutique consultancy, serving as principal
-  developer and technical director on multi-year client engagements — with the
+  developer and technical director on multi-year client engagements, with the
   scope, responsibility, and delivery accountability of a senior individual
   contributor or technical lead at a product company.
 - Delivered custom CRM, operations, and workflow applications that improved
@@ -50,13 +51,12 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   multi-year Salesforce platform engagement, owning architecture, DevOps, and
   implementation across six functional areas.
 - Mentored junior developers across Salesforce, FileMaker, and web
-  projects, improving onboarding and delivery consistency across
-  engagements.
+  projects, and served as approving reviewer on their pull requests.
 - Conducted GitHub pull request code reviews for both junior developers
   and peers over six-plus years, across Salesforce (Apex, LWC),
-  React, TypeScript, and Node.js — evaluating correctness, code
+  React, TypeScript, and Node.js, evaluating correctness, code
   quality, and design consistency.
-- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that sped onboarding and shortened time to proficiency on new procedures and an iPad personality-assessment app used in sales-role candidate evaluation.
+- Delivered over a dozen distinct internal tools and owned platform selection, systems design, and deployment across cloud environments, Salesforce orgs, and FileMaker Server, including a gamified training app that let salespeople confirm their training level while competing for points, and an iPad personality-assessment app used in sales-role candidate evaluation.
 
 #### Selected Projects
 
@@ -66,7 +66,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   scheduling. Delivered 31 REST API modules and 56 data models in roughly
   nine weeks, with 233 automated test files behind a CI gate that fails
   below 100% coverage on both backend and frontend. Provisioned and
-  operated the production environment as well — server setup, TLS, a
+  operated the production environment as well: server setup, TLS, a
   separate staging deployment, and nightly off-site backups with a
   rehearsed restore drill. Stack: Python, Flask, SQLAlchemy, Celery,
   Redis, PostgreSQL, Docker; React, TypeScript, Vite. Every line of
@@ -80,7 +80,7 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   AI-assisted development with Claude Code and Replit Agent.
 - **Business Operations Platform** (2021–present): Lead developer and
   architect on the migration of a 200-plus-user company off a decades-old,
-  unmaintainable FileMaker system onto Salesforce — millions of records moved,
+  unmaintainable FileMaker system onto Salesforce. Millions of records moved,
   then expanded across six functional areas: HR, recruiting, project tracking,
   surveys, support ticketing, and field incident reporting. Led a team of eight
   developers through the first two years. The platform carried the client's

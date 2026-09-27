@@ -1,4 +1,4 @@
-# Charles E. Ross — Curriculum Vitae
+# Charles E. Ross, Curriculum Vitae
 
 1319 Summerchase Rd., San Jacinto, CA 92582 | 951-370-5596 | [chivalry@mac.com](mailto:chivalry@mac.com)
 
@@ -18,7 +18,7 @@ Senior software developer, solutions architect, and technical writer with more t
 | <a href="https://github.com/readme/nasa-ingenuity-helicopter"><img alt="Mars 2020 Helicopter Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--mars-64.png"></a> | <a href="https://archiveprogram.github.com/"><img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"></a> |
 <!-- markdownlint-enable MD033 -->
 
-Open source contributions archived in the [GitHub Arctic Code Vault](https://archiveprogram.github.com/), a program that preserves active open source code for 1,000 years in Svalbard, Norway. Contributions also recognized as part of the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) — included in the open source snapshot stored aboard NASA's Ingenuity rotorcraft on Mars.
+Open source contributions archived in the [GitHub Arctic Code Vault](https://archiveprogram.github.com/), a program that preserves active open source code for 1,000 years in Svalbard, Norway. Contributions also recognized as part of the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter), included in the open source snapshot stored aboard NASA's Ingenuity rotorcraft on Mars.
 
 ## Skills
 
@@ -42,7 +42,7 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 - Sole developer on a full-stack ranch operations platform covering livestock records, infrastructure, inventory, purchasing, and recurring task scheduling; built with Python, Flask, SQLAlchemy, and PostgreSQL behind a React and TypeScript front end, with 100% test coverage enforced in CI and production infrastructure, staging, and backups owned end to end; every line of code written by coding agents (Claude Code and Codex) and reviewed before merge (2026)
 - Senior developer on a full-stack mortgage brokerage CRM built from scratch using React, TypeScript, Node.js, and PostgreSQL; used AI-assisted development with Claude Code and Replit Agent throughout to accelerate delivery (2025–2026)
-- Lead developer, DevOps manager, and application architect on the migration of a 200-plus-user company off a decades-old, unmaintainable FileMaker system onto the [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/) — millions of records migrated, then expanded across six functional areas: HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. The platform carried the client's growth as headcount rose by roughly half (2021–present; team lead over eight developers, 2021–2023)
+- Lead developer, DevOps manager, and application architect on the migration of a 200-plus-user company off a decades-old, unmaintainable FileMaker system onto the [Salesforce Lightning Platform](https://www.salesforce.com/products/platform/overview/). Millions of records migrated, then expanded across six functional areas: HR, recruiting, project tracking, surveys, support ticketing, and field incident reporting. The platform carried the client's growth as headcount rose by roughly half (2021–present; team lead over eight developers, 2021–2023)
 - Senior contributor on an [AppExchange](https://appexchange.salesforce.com/) administrator utility for managing complex Salesforce permission sets across enterprise orgs (2023–2024)
 - Senior contributor on a custom CRM built on OutSystems Developer Cloud for a mortgage brokerage
 - Statistical modeling in Python with [pandas](https://pandas.pydata.org) and [NumPy](https://numpy.org) for a multi-location wireless retailer: regression and trend fitting over historical data to predict future prices, running in production and recalculating as new data arrived (2019); statistical analysis of survey results for a separate client
@@ -131,21 +131,21 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 
 ## Education
 
-[University of California, Los Angeles](https://www.ucla.edu) — Bachelor of Science in Mathematics with a Specialization in Computing
+[University of California, Los Angeles](https://www.ucla.edu), Bachelor of Science in Mathematics with a Specialization in Computing
 
 ## Certifications
 
 - Certified FileMaker Developer
-- [Salesforce Superbadges](https://trailblazer.me/id/chivalry): Apex Specialist (Apex/Java), Lightning Experience Specialist, Security Specialist, App Customization Specialist — February–March 2021
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures-v8) — October 2025
-- [Docker and Kubernetes](https://www.udemy.com/certificate/UC-297cb03f-3165-4379-b98e-83e4bd11ecaa/) — June 2024
-- [GitHub Ultimate: Master Git and GitHub — Beginner to Expert](https://www.udemy.com/certificate/UC-cd928d7f-b5b9-462e-a72f-1075c2e33f56/) — June 2021
-- [Git and GitHub Beginner to Expert](https://stackskills.com/p/complete-git-and-github-beginner-to-expert) — June 2021
-- [Mastering Bash Shell Scripting](https://stackskills.com/p/bash-shell-scripting) — June 2021
-- [Responsive Web Design](https://www.freecodecamp.org/certification/chivalry/responsive-web-design) — May 2020
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures) — May 2020
-- [Python (Basic)](https://www.hackerrank.com/certificates/4b8f02ef72d7) — April 2020
-- [JavaScript (Basic)](https://www.hackerrank.com/certificates/8dd79ada7fea) — April 2020
+- [Salesforce Superbadges](https://trailblazer.me/id/chivalry): Apex Specialist (Apex/Java), Lightning Experience Specialist, Security Specialist, App Customization Specialist (February–March 2021)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures-v8) (October 2025)
+- [Docker and Kubernetes](https://www.udemy.com/certificate/UC-297cb03f-3165-4379-b98e-83e4bd11ecaa/) (June 2024)
+- [GitHub Ultimate: Master Git and GitHub - Beginner to Expert](https://www.udemy.com/certificate/UC-cd928d7f-b5b9-462e-a72f-1075c2e33f56/) (June 2021)
+- [Git and GitHub Beginner to Expert](https://stackskills.com/p/complete-git-and-github-beginner-to-expert) (June 2021)
+- [Mastering Bash Shell Scripting](https://stackskills.com/p/bash-shell-scripting) (June 2021)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/chivalry/responsive-web-design) (May 2020)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/chivalry/javascript-algorithms-and-data-structures) (May 2020)
+- [Python (Basic)](https://www.hackerrank.com/certificates/4b8f02ef72d7) (April 2020)
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/8dd79ada7fea) (April 2020)
 
 ## Open Source Projects
 
@@ -164,8 +164,8 @@ Built and maintain custom CRM, operations, and workflow applications for clients
 - Long-time moderator on [FMForums](https://fmforums.com/), the FileMaker community forum
 - Member of [FileMaker Developers in Southern California](http://fmdisc.org/pages/about.html)
 - Top 10% [Stack Overflow](https://stackoverflow.com/users/65659/chuck) contributor
-- Den Leader, Awards Chair, and Merit Badge Counselor with [Boy Scouts of America](https://www.scouting.org) — 10 years
-- Tutor with [Heart of Los Angeles](https://www.heartofla.org) — 2 years
-- Programming mentor with [FIRST](https://www.firstinspires.org) robotics — 1 year
-- Kindergarten Sunday school teacher — 2 years
-- Vacation Bible School volunteer — 2 years
+- Den Leader, Awards Chair, and Merit Badge Counselor with [Boy Scouts of America](https://www.scouting.org) (10 years)
+- Tutor with [Heart of Los Angeles](https://www.heartofla.org) (2 years)
+- Programming mentor with [FIRST](https://www.firstinspires.org) robotics (1 year)
+- Kindergarten Sunday school teacher (2 years)
+- Vacation Bible School volunteer (2 years)
