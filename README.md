@@ -43,8 +43,9 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   entertainment, and manufacturing.
 - Most recently sole developer on a full-stack ranch operations platform,
   owning the data model, REST API, React front end, CI pipeline, and
-  production deployment; before that, senior developer on a mortgage
-  brokerage CRM delivered with AI-assisted development.
+  production deployment; before that, lead developer and application
+  architect on a mortgage brokerage CRM delivered with AI-assisted
+  development.
 - Built and shipped business systems across [React](https://react.dev/), [Node.js](https://nodejs.org/), PostgreSQL, Salesforce Lightning Platform, OutSystems, FileMaker, Flask, and [CakePHP](https://cakephp.org/), choosing the right stack for each client's workflow and delivery constraints.
 - Learned [PHP](https://php.net) over a weekend to deliver a client web project on schedule, and reached productive delivery on [OutSystems](https://www.outsystems.com) within a week of first exposure.
 - Led a team of eight developers as primary technical decision-maker on a
@@ -72,10 +73,11 @@ Known for ramping quickly on unfamiliar technologies when project needs demand i
   Redis, PostgreSQL, Docker; React, TypeScript, Vite. Every line of
   code was written by coding agents (Claude Code and Codex) and
   reviewed before merge.
-- **Mortgage Brokerage CRM** (2025–2026): Senior developer on a
-  full-stack custom CRM built from scratch for a live mortgage
-  brokerage. Delivered pipeline, document, communication, and
-  reporting workflows that streamlined day-to-day loan operations.
+- **Mortgage Brokerage CRM** (2025–2026): Lead developer and
+  application architect on a full-stack custom CRM built from scratch
+  for a live mortgage brokerage. Delivered pipeline, document,
+  communication, and reporting workflows that streamlined day-to-day loan
+  operations.
   Stack: React, TypeScript, Node.js, PostgreSQL, Drizzle ORM;
   AI-assisted development with Claude Code and Replit Agent.
 - **Business Operations Platform** (2021–present): Lead developer and
